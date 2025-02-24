@@ -1,3 +1,13 @@
+document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+  });
+  document.addEventListener('keydown', function(event) {
+    if (event.ctrlKey) {
+        event.preventDefault(); // Disable the default action when Ctrl is pressed
+    }
+});
+
+
 function loginUser() {
     // Simulated user data (replace with real authentication)
     const users = {
