@@ -296,7 +296,7 @@ function loginUser() {
         
 
 
-        "admin": { password: "02447930", homepage: "pages/admin.html" },
+        "admin": { password: "1234", homepage: "pages/admin.html" },
         "userC": { password: "passC", homepage: "homepageC.html" },
         "Dave": { password: "1234", homepage: "pages/CLASS 2 MARIGOLD.html" }
     };
