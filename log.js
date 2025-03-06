@@ -36,6 +36,7 @@ function loginUser() {
         "LD04": { password: "0545124034", homepage: "pages/Little-Daisy/LD04.html" },
         "LD05": { password: "0242770399", homepage: "pages/Little-Daisy/LD05.html" },
         "LD06": { password: "0534795556", homepage: "pages/Little-Daisy/LD06.html" },
+        "LD07": { password: "0246849824", homepage: "pages/Little-Daisy/LD07.html" },
 
         // Rose 
         "R01": { password: "0242580593", homepage: "pages/Rose/R01.html" },
@@ -43,7 +44,7 @@ function loginUser() {
         "R03": { password: "0246796827", homepage: "pages/Rose/R03.html" },
         "R04": { password: "0542838878", homepage: "pages/Rose/R04.html" },
         "R05": { password: "0553399612", homepage: "pages/Rose/R05.html" },
-        "R06": { password: "", homepage: "pages/Rose/R06.html" },
+        "R06": { password: "0247631058", homepage: "pages/Rose/R06.html" },
         "R07": { password: "0548725933", homepage: "pages/Rose/R07.html" },
         "R08": { password: "0246949804", homepage: "pages/Rose/R08.html" },
         "R09": { password: "0249667129", homepage: "pages/Rose/R09.html" },
@@ -58,7 +59,8 @@ function loginUser() {
         "R18": { password: "0247631058", homepage: "pages/Rose/R18.html" },
         "R19": { password: "0532894665", homepage: "pages/Rose/R19.html" },
         "R20": { password: "0553787819", homepage: "pages/Rose/R20.html" },        
-        "R21": { password: "0552050193", homepage: "pages/Rose/R21.html" },        
+        "R21": { password: "0552050193", homepage: "pages/Rose/R21.html" },
+        "R22": { password: "0596800640", homepage: "pages/Rose/R22.html" },
 
 
         // Sunflower
