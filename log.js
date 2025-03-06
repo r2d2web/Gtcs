@@ -264,7 +264,7 @@ function loginUser() {
         // Carnation
         "0601": { password: "0553645909", homepage: "pages/Carnation/0601.html" },
         "0602": { password: "0246387638", homepage: "pages/Carnation/0602.html" },
-        "0603": { password: "", homepage: "pages/Carnation/0603.html" },
+        "0603": { password: "0246387638", homepage: "pages/Carnation/0603.html" },
         "0604": { password: "0277198840", homepage: "pages/Carnation/0604.html" },
         "0605": { password: "0544762108", homepage: "pages/Carnation/0605.html" },
         "0606": { password: "0558058948", homepage: "pages/Carnation/0606.html" },
