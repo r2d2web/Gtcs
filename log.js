@@ -242,7 +242,7 @@ function loginUser() {
         "0501": { password: "0535898552", homepage: "pages/Jasmine/0501.html" },
         "0502": { password: "0242549003", homepage: "pages/Jasmine/0502.html" },
         "0503": { password: "0546133718", homepage: "pages/Jasmine/0503.html" },
-        "0504": { password: "0548952383", homepage: "pages/Jasmine/0504.html" },
+        "0504": { password: "0591865624", homepage: "pages/Jasmine/0504.html" },
         "0505": { password: "0551655891", homepage: "pages/Jasmine/0505.html" },
         "0506": { password: "0244448114", homepage: "pages/Jasmine/0506.html" },
         "0507": { password: "0531442644", homepage: "pages/Jasmine/0507.html" },
