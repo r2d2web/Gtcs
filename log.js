@@ -289,7 +289,7 @@ function loginUser() {
 
         // Camellia
         "0801": { password: "0244448114", homepage: "pages/Camellia/0801.html" },
-        "0802": { password: "0535800440", homepage: "pages/Camellia/0802.html" },
+        "0802": { password: "0535898552", homepage: "pages/Camellia/0802.html" },
         "0803": { password: "0543108626", homepage: "pages/Camellia/0803.html" },
         "0804": { password: "0531442644", homepage: "pages/Camellia/0804.html" },
         // Complete 
