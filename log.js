@@ -11,8 +11,6 @@ document.addEventListener('keydown', function(event) {
         event.preventDefault(); // Disable F12 (DevTools shortcut)
     }
 });
-// Change the displayed URL without reloading the page
-history.pushState(null, "", "/hidden-page");
 
 
 
