@@ -12,4 +12,4 @@ document.addEventListener('keydown', function(event) {
     }
 });
 // Change the displayed URL without reloading the page
-history.pushState(null, "", "/hidden-page");
+history.pushState(null, "", "/gtcs");
