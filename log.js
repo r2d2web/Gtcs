@@ -11,6 +11,9 @@ document.addEventListener('keydown', function(event) {
         event.preventDefault(); // Disable F12 (DevTools shortcut)
     }
 });
+if (!localStorage.getItem('loggedInUser')) {
+    window.location.href = "/index.html";
+}
 
 
 
