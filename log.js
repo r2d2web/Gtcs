@@ -12,7 +12,7 @@ document.addEventListener('keydown', function(event) {
     }
 });
 if (!localStorage.getItem('loggedInUser')) {
-    window.location.href = "/index.html";
+    window.location.href = "../../../index.html";
 }
 
 
