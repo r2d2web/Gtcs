@@ -62,7 +62,7 @@ function loginUser() {
         "R20": { password: "0553787819", homepage: "pages/Rose/R20.html" },
         "R21": { password: "0552050193", homepage: "pages/Rose/R21.html" },
         "R22": { password: "0596800640", homepage: "pages/Rose/R22.html" },
-        "R23": { password: "1234", homepage: "pages/Rose/R23.html" },
+        "R23": { password: "0247419242", homepage: "pages/Rose/R23.html" },
 
 
         // Sunflower
