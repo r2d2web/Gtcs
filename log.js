@@ -59,9 +59,10 @@ function loginUser() {
         "R17": { password: "0243564438", homepage: "pages/Rose/R17.html" },
         "R18": { password: "0247631058", homepage: "pages/Rose/R18.html" },
         "R19": { password: "0532894665", homepage: "pages/Rose/R19.html" },
-        "R20": { password: "0553787819", homepage: "pages/Rose/R20.html" },        
+        "R20": { password: "0553787819", homepage: "pages/Rose/R20.html" },
         "R21": { password: "0552050193", homepage: "pages/Rose/R21.html" },
         "R22": { password: "0596800640", homepage: "pages/Rose/R22.html" },
+        "R23": { password: "", homepage: "pages/Rose/R23.html" },
 
 
         // Sunflower
@@ -243,7 +244,7 @@ function loginUser() {
         "0501": { password: "0535898552", homepage: "pages/Jasmine/0501.html" },
         "0502": { password: "0242549003", homepage: "pages/Jasmine/0502.html" },
         "0503": { password: "0546133718", homepage: "pages/Jasmine/0503.html" },
-        "0504": { password: "0591865624", homepage: "pages/Jasmine/0504.html" },
+        "0504": { password: "0548952383", homepage: "pages/Jasmine/0504.html" },
         "0505": { password: "0551655891", homepage: "pages/Jasmine/0505.html" },
         "0506": { password: "0244448114", homepage: "pages/Jasmine/0506.html" },
         "0507": { password: "0531442644", homepage: "pages/Jasmine/0507.html" },
