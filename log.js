@@ -11,7 +11,9 @@ document.addEventListener('keydown', function(event) {
         event.preventDefault(); // Disable F12 (DevTools shortcut)
     }
 });
-
+if (!/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
+    document.body.innerHTML = "<h2>Access Denied. This site is only accessible on mobile devices.</h2>";
+}
 
 
 
