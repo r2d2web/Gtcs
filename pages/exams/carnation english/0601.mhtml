@@ -1,0 +1,619 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/english.html
+Subject: 
+Date: Wed, 26 Mar 2025 16:57:28 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--lLIVTtHqHNTfMnCewWLilqvpjySXYxmOwQ7JNaMIrd----"
+
+
+------MultipartBoundary--lLIVTtHqHNTfMnCewWLilqvpjySXYxmOwQ7JNaMIrd----
+Content-Type: text/html
+Content-ID: <frame-ACD9C16EBA570CD94F52E41683738C9E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/english.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><h1>English</h1>
+<button id=3D"startBtn" disabled=3D"">Start</button>
+<p id=3D"timerDisplay">Time Left: 18:13</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <h2>From the words or groups of words lettered A to D, choose the one t=
+hat best completes each of the following sentences.</h2>
+    <li id=3D"q1_li">
+        It=E2=80=99s a pity I have hardly .................... food to give=
+ you.
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D" a little" disabled=
+=3D""> A.  a little
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"too much" disabled=
+=3D""> B. too much
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q1" value=3D"some" disabled=3D"">=
+ C. some
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q1" value=3D"any" disabled=3D""> =
+D. any
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">
+        I was given ................ money than you were give.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q2" value=3D"much more" disabled=
+=3D""> A. much more
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"many" disabled=3D"">=
+ B. many
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q2" value=3D"much" disabled=3D"">=
+ C. much
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"many more" disabled=
+=3D""> D. many more
+        </label>
+    </li><br><br>
+    <li id=3D"q3_li">
+        The book you gave me was not ............... than the one I had bef=
+ore.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q3" value=3D"any better" disabled=
+=3D""> A. any better
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q3" value=3D"much better" disable=
+d=3D""> B. much better
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"any good" disabled=
+=3D""> C. any good
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"very better" disable=
+d=3D""> D. very better
+        </label>
+    </li><br><br>
+    <li id=3D"q4_li">
+        Are you sure .............. shirts on the table were the ones I gav=
+e you?
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"that" disabled=3D"">=
+ A. that
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q4" value=3D"these" disabled=3D""=
+> B. these
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q4" value=3D"those" disabled=3D""=
+> C. those
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"some" disabled=3D"">=
+ D. some
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">
+        Give me the book ........... I lent you yesterday.
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q5" value=3D"whom" disabled=3D"">=
+ A. whom
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"what" disabled=3D"">=
+ B. what
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"whose" disabled=3D""=
+> C. whose
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q5" value=3D"some" disabled=3D"">=
+ D. some
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">
+        Of the three girls, Awo is the ...................
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"shorter" disabled=3D=
+""> A. shorter
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"more shortest" disab=
+led=3D""> B. more shortest
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"most short" disabled=
+=3D""> C. most short
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q6" value=3D"shortest" disabled=
+=3D""> D. shortest
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">
+        The soldier was promoted because he was the ................. among=
+ the lot.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q7" value=3D"most courageous" dis=
+abled=3D""> A. most courageous
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q7" value=3D"courageous" disabled=
+=3D""> B. courageous
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"more courageous" dis=
+abled=3D""> C. more courageous
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"much courageous" dis=
+abled=3D""> D. much courageous
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">
+        Your nephew could not pass the interview because he was not .......=
+........ before the panel members.
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"confident much" disa=
+bled=3D""> A. confident much
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"confident quite" dis=
+abled=3D""> B. confident quite
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q8" value=3D"confident enough" di=
+sabled=3D""> C. confident enough
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"confident somehow" d=
+isabled=3D""> D. confident somehow
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">
+        Mr. Amakye has been robbed .................. his property.
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"from" disabled=3D"">=
+ A. from
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q9" value=3D"for" disabled=3D""> =
+B. for
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"by" disabled=3D""> C=
+. by
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q9" value=3D"of" disabled=3D""> D=
+. of
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">
+        The patient went ................. a lot of body exercises.
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"in out" disabled=3D=
+""> A. in out
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"out" disabled=3D"">=
+ B. out
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q10" value=3D"through" disabled=
+=3D""> C. through
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"ahead" disabled=3D"=
+"> D. ahead
+        </label>
+    </li><br><br>
+    <h2>In each of the following sentences, a group of words have been unde=
+rlined. Choose from the alternatives lettered A to D, the one that best exp=
+lains the underlined words.</h2>
+    <li id=3D"q11_li">
+        By the end of the lesson, we were <u>completely at sea</u>. This me=
+ans that we were ......................
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"fast asleep" disabl=
+ed=3D""> A. fast asleep
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q11" value=3D"totally confused" d=
+isabled=3D""> B. totally confused
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"quite disturbed" di=
+sabled=3D""> C. quite disturbed
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"very inspired" disa=
+bled=3D""> D. very inspired
+        </label>
+    </li><br><br>
+    <li id=3D"q12_li">
+        She did her best to <u>keep on the right side</u> of her teacher. T=
+his means she did her best not to ................. her teacher.
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"interrupt" disabled=
+=3D""> A. interrupt
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q12" value=3D"mislead" disabled=
+=3D""> B. mislead
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"misunderstand" disa=
+bled=3D""> C. misunderstand
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q12" value=3D"offend" disabled=3D=
+""> D. offend
+        </label>
+    </li><br><br>
+    <li id=3D"q13_li">
+        <u>You shouldn=E2=80=99t have hit Kuuku so hard</u>; it was rather =
+unkind of you. From this we know that Kuuku was . From this we know that Ku=
+uku was ....................
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"being naughty" disa=
+bled=3D""> A. being naughty
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"hurt" disabled=3D""=
+> B. hurt
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"kind" disabled=3D""=
+> C. kind
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q13" value=3D"hit" disabled=3D"">=
+ D. hit
+        </label>
+    </li><br><br>
+    <li id=3D"q14_li">
+        <u>If we hadn=E2=80=99t gone to the beach so early we would have me=
+t our visitor</u>. This means that .....................
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"we went to the beac=
+h late" disabled=3D""> A. we went to the beach late
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q14" value=3D"we did not meet our=
+ visitor" disabled=3D""> B. we did not meet our visitor
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"our visitor waited =
+for us" disabled=3D""> C. our visitor waited for us
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q14" value=3D"we met our visitor =
+at the beach" disabled=3D""> D. we met our visitor at the beach
+        </label>
+    </li><br><br>
+    <li id=3D"q15_li">
+        It=E2=80=99s only 2 o=E2=80=99clock, Megan. <u>You needn=E2=80=99t =
+go yet</u>. This means that Megan .................
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"doesn=E2=80=99t go =
+out" disabled=3D""> A. doesn=E2=80=99t go out
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q15" value=3D"can=E2=80=99t go ye=
+t" disabled=3D""> B. can=E2=80=99t go yet
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q15" value=3D"doesn=E2=80=99t hav=
+e to go yet" disabled=3D""> C. doesn=E2=80=99t have to go yet
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"isn=E2=80=99t going=
+ yet" disabled=3D""> D. isn=E2=80=99t going yet
+        </label>
+    </li><br><br>
+    <h2>Chose from the alternatives lettered A to D, the one which is neare=
+st in meaning to the word underlined in each sentence.</h2>
+    <li id=3D"q16_li">
+        The government has <u>banned</u> the use of hard drugs in the count=
+ry.
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"destroyed" disabled=
+=3D""> A. destroyed
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q16" value=3D"forbidden" disabled=
+=3D""> B. forbidden
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"controlled" disable=
+d=3D""> C. controlled
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q16" value=3D"reduced" disabled=
+=3D""> D. reduced
+        </label>
+    </li><br><br>
+    <li id=3D"q17_li">
+        Our headmaster invited many <u>prominent</u> citizens to our speech=
+ day.
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"known" disabled=3D"=
+"> A. known
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q17" value=3D"popular" disabled=
+=3D""> B. popular
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q17" value=3D"distinguished" disa=
+bled=3D""> C. distinguished
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"good" disabled=3D""=
+> D. good
+        </label>
+    </li><br><br>
+    <li id=3D"q18_li">
+        The dry season is <u>imminent</u>.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q18" value=3D"very close" disable=
+d=3D""> A. very close
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"partly over" disabl=
+ed=3D""> B. partly over
+        </label>
+    </li><br><br>
+    <li id=3D"q19_li">
+        The meeting was <u>postponed</u> to another date.
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"cancelled" disabled=
+=3D""> A. cancelled
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"removed" disabled=
+=3D""> B. removed
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"called" disabled=3D=
+""> C. called
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q19" value=3D"shifted" disabled=
+=3D""> D. shifted
+        </label>
+    </li><br><br>
+    <li id=3D"q20_li">
+        The man was <u>furious</u> when his son failed the examination.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q20" value=3D"angry" disabled=3D"=
+"> A. angry
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"anxious" disabled=
+=3D""> B. anxious
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"shocked" disabled=
+=3D""> C. shocked
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"frightened" disable=
+d=3D""> D. frightened
+        </label>
+    </li><br><br>
+    <h2>From the list of words or group of words lettered A to D, choose th=
+e one which is nearly opposite in meaning to the world in bold type in each=
+ sentence.</h2>
+    <li id=3D"q21_li">
+        There are guards on our border because the government wants to <b>e=
+liminate</b> smuggling.
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q21" value=3D"notice" disabled=3D=
+""> A. notice
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q21" value=3D"manage" disabled=3D=
+""> B. manage
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q21" value=3D"encourage" disabled=
+=3D""> C. encourage
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q21" value=3D"investigate" disabl=
+ed=3D""> D. investigate
+        </label>
+    </li><br><br>
+    <li id=3D"q22_li">
+        The candidate worked the problem with a great deal of <b>precision<=
+/b>.
+        <br><label>
+            <input type=3D"radio" name=3D"q22" value=3D"sense" disabled=3D"=
+"> A. sense
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q22" value=3D"energy" disabled=3D=
+""> B. energy
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q22" value=3D"inaccuracy" disable=
+d=3D""> C. inaccuracy
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q22" value=3D"detail" disabled=3D=
+""> D. detail
+        </label>
+    </li><br><br>
+    <li id=3D"q23_li">
+        My grandmother likes <b>old fashioned</b> clothes.
+        <br><label>
+            <input type=3D"radio" name=3D"q23" value=3D"special" disabled=
+=3D""> A. special
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q23" value=3D"decorated" disabled=
+=3D""> B. decorated
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q23" value=3D"modern" disabled=3D=
+""> C. modern
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q23" value=3D"stylish" disabled=
+=3D""> D. stylish
+        </label>
+    </li><br><br>
+    <li id=3D"q24_li">
+        I am going to <b>arrange</b> the books in the cupboard.
+        <br><label>
+            <input type=3D"radio" name=3D"q24" value=3D"display" disabled=
+=3D""> A. display
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q24" value=3D"scatter" disabled=
+=3D""> B. scatter
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q24" value=3D"list" disabled=3D""=
+> C. list
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q24" value=3D"spill" disabled=3D"=
+"> D. spill
+        </label>
+    </li><br><br>
+    <li id=3D"q25_li">
+        Most of the men were <b>sacked</b> by the company.
+        <br><label>
+            <input type=3D"radio" name=3D"q25" value=3D"used" disabled=3D""=
+> A. used
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q25" value=3D"punished" disabled=
+=3D""> B. punished
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q25" value=3D"warned employed" di=
+sabled=3D""> C. warned employed
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q25" value=3D"employed" disabled=
+=3D""> D. employed
+        </label>
+    </li><br><br>
+    <h2>From the words or group of words lettered A to D, choose the one th=
+at best completes each of the following sentences.</h2>
+    <li id=3D"q26_li">
+        Prince is no more a friend of ....................
+        <br><label>
+            <input type=3D"radio" name=3D"q26" value=3D"them" disabled=3D""=
+> A. them
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q26" value=3D"him" disabled=3D"">=
+ B. him
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q26" value=3D"their" disabled=3D"=
+"> C. their
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q26" value=3D"ours" disabled=3D""=
+> D. ours
+        </label>
+    </li><br><br>
+    <li id=3D"q27_li">
+        Let me look at that car of .................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q27" value=3D"his" disabled=3D"">=
+ A. his
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q27" value=3D"he" disabled=3D""> =
+B. he
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q27" value=3D"himself" disabled=
+=3D""> C. himself
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q27" value=3D"him" disabled=3D"">=
+ D. him
+        </label>
+    </li><br><br>
+    <li id=3D"q28_li">
+        This book belongs to John and Paul; it is .......................
+        <br><label>
+            <input type=3D"radio" name=3D"q28" value=3D"their=E2=80=99s" di=
+sabled=3D""> A. their=E2=80=99s
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q28" value=3D"theirs" disabled=3D=
+""> B. theirs
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q28" value=3D"theirs=E2=80=99" di=
+sabled=3D""> C. theirs=E2=80=99
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q28" value=3D"their" disabled=3D"=
+"> D. their
+        </label>
+    </li><br><br>
+    <li id=3D"q29_li">
+        I=E2=80=99m afraid of that dog of ......................
+        <br><label>
+            <input type=3D"radio" name=3D"q29" value=3D"you" disabled=3D"">=
+ A. you
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q29" value=3D"yours=E2=80=99" dis=
+abled=3D""> B. yours=E2=80=99
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q29" value=3D"yours" disabled=3D"=
+"> C. yours
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q29" value=3D"your=E2=80=99s" dis=
+abled=3D""> D. your=E2=80=99s
+        </label>
+    </li><br><br>
+    <li id=3D"q30_li">
+        Mrs. Omar has lost an aunt of ...................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q30" value=3D"hers" disabled=3D""=
+> A. hers
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q30" value=3D"her" disabled=3D"">=
+ B. her
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q30" value=3D"she=E2=80=99s" disa=
+bled=3D""> C. she=E2=80=99s
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q30" value=3D"she" disabled=3D"">=
+ D. she
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;" disabled=3D"">Submit</bu=
+tton>
+<p id=3D"result">You got 14 correct.</p>
+
+</body></html>
+------MultipartBoundary--lLIVTtHqHNTfMnCewWLilqvpjySXYxmOwQ7JNaMIrd------

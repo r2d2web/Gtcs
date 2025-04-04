@@ -1,0 +1,619 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/history.html
+Subject: 
+Date: Thu, 27 Mar 2025 08:32:10 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--418gQIO1WC0W6GgwZc777gFgJ516x3FpJGbrAVQUIA----"
+
+
+------MultipartBoundary--418gQIO1WC0W6GgwZc777gFgJ516x3FpJGbrAVQUIA----
+Content-Type: text/html
+Content-ID: <frame-35DC124D3E07525CF22D9B641DF7A93C@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/history.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><h1>HISTORY</h1>
+<button id=3D"startBtn" disabled=3D"">Start</button>
+<p id=3D"timerDisplay">Time Left: 19:36</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <li id=3D"q1_li">
+        Who is now the current president of Ghana?
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"Dr. Kwame Nkrumah" d=
+isabled=3D""> A. Dr. Kwame Nkrumah
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q1" value=3D"John Dramani Mahama"=
+ disabled=3D""> B. John Dramani Mahama
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q1" value=3D"Nana Akufo Addo" dis=
+abled=3D""> C. Nana Akufo Addo
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"J. J. Rawlings" disa=
+bled=3D""> D. J. J. Rawlings
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">
+        How many religions do we have in Ghana?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q2" value=3D"16" disabled=3D""> A=
+. 16
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q2" value=3D"10" disabled=3D""> B=
+. 10
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"21" disabled=3D""> C=
+. 21
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"12" disabled=3D""> D=
+. 12
+        </label>       =20
+    </li><br><br>
+    <li id=3D"q3_li">
+        All the following names are the list of leaders of C.P.P. except ..=
+................
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"K. A. Gbedemah" disa=
+bled=3D""> A. K. A. Gbedemah
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q3" value=3D"Krobo Edusei" disabl=
+ed=3D""> B. Krobo Edusei
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q3" value=3D"Ako Adjei" disabled=
+=3D""> C. Ako Adjei
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"Akua Asabea" disable=
+d=3D""> D. Akua Asabea
+        </label>
+    </li><br><br>
+    <li id=3D"q4_li">
+        Which of the following is the capital of eastern religion.
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"Ho" disabled=3D""> A=
+. Ho
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"Was" disabled=3D""> =
+B. Was
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q4" value=3D"Accra" disabled=3D""=
+> C. Accra
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q4" value=3D"Koforidua" disabled=
+=3D""> D. Koforidua
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">
+        The second political party formed in the Gold Coast was called ....=
+.............
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"(N.P.P.)" disabled=
+=3D""> A. (N.P.P.)
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"(N.D.C.)" disabled=
+=3D""> B. (N.D.C.)
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"(U.G.C.C.)" disabled=
+=3D""> C. (U.G.C.C.)
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q5" value=3D"(C.P.P.)" disabled=
+=3D""> D. (C.P.P.)
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">
+        .................. was the motto of U.G.C.C.
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q6" value=3D"=E2=80=9CSelf-Govern=
+ment Now=E2=80=9D" disabled=3D""> A. =E2=80=9CSelf-Government Now=E2=80=9D
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"=E2=80=9CSelf-Govern=
+ment Later=E2=80=9D" disabled=3D""> B. =E2=80=9CSelf-Government Later=E2=80=
+=9D
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q6" value=3D"=E2=80=9CSelf-Govern=
+ment Within The Shortest Possible Time=E2=80=9D" disabled=3D""> C. =E2=80=
+=9CSelf-Government Within The Shortest Possible Time=E2=80=9D
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"=E2=80=9CSelf-Govern=
+ment Within The Longest Possible Time=E2=80=9D" disabled=3D""> D. =E2=80=9C=
+Self-Government Within The Longest Possible Time=E2=80=9D
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">
+        All the following are the roles of Mr. Emmanuel Obetsebi Lamptey ex=
+cept ..................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q7" value=3D"he was a member of C=
+.P.P." disabled=3D""> A. he was a member of C.P.P.
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q7" value=3D"he was a member of C=
+oussey Committee" disabled=3D""> B. he was a member of Coussey Committee
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"He was a member of U=
+.G.C.C." disabled=3D""> C. He was a member of U.G.C.C.
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"He was a member of t=
+he =E2=80=98Big Six=E2=80=99" disabled=3D""> D. He was a member of the =E2=
+=80=98Big Six=E2=80=99
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">
+        In which year was the U.G.C.C. formed ...........................
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"16th March, 2003" di=
+sabled=3D""> A. 16th March, 2003
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"4th August, 1948" di=
+sabled=3D""> B. 4th August, 1948
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q8" value=3D"4th August, 1947" di=
+sabled=3D""> C. 4th August, 1947
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"17th March, 2003" di=
+sabled=3D""> D. 17th March, 2003
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">
+        Which of these is the capital city of Ghana?
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"Kumasi" disabled=3D"=
+"> A. Kumasi
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q9" value=3D"Cape Coast" disabled=
+=3D""> B. Cape Coast
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q9" value=3D"Accra" disabled=3D""=
+> C. Accra
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"Labadi" disabled=3D"=
+"> D. Labadi
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">
+        In which year was the C.P.P. formed?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q10" value=3D"1949" disabled=3D""=
+> A. 1949
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q10" value=3D"1957" disabled=3D""=
+> B. 1957
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"1999" disabled=3D""=
+> C. 1999
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"2025" disabled=3D""=
+> D. 2025
+        </label>
+    </li><br><br>
+    <li id=3D"q11_li">
+        Which of the following female was part of the C.P.P.?
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"Charlotte Osei" dis=
+abled=3D""> A. Charlotte Osei
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"Yvonne Botsio" disa=
+bled=3D""> B. Yvonne Botsio
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"Nana Kunedu" disabl=
+ed=3D""> C. Nana Kunedu
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q11" value=3D"Akua Asabea" disabl=
+ed=3D""> D. Akua Asabea
+        </label>
+    </li><br><br>
+    <li id=3D"q12_li">
+        The C.P.P. won all parliamentary elections of .....................=
+.... , .................... and .......................
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"2012, 2016 and 2020=
+" disabled=3D""> A. 2012, 2016 and 2020
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q12" value=3D"1951, 1954 and 1956=
+" disabled=3D""> B. 1951, 1954 and 1956
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"1960, 1964 and 1968=
+" disabled=3D""> C. 1960, 1964 and 1968
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"2000, 2004 and 2008=
+" disabled=3D""> D. 2000, 2004 and 2008
+        </label>
+    </li><br><br>
+    <li id=3D"q13_li">
+        What was the amount of money Kwame Nkrumah gave to Guinea to fight =
+for independence?
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q13" value=3D"=C2=A320 million" d=
+isabled=3D""> A. =C2=A320 million
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q13" value=3D"=C2=A310 million" d=
+isabled=3D""> B. =C2=A310 million
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"=C2=A31 million" di=
+sabled=3D""> C. =C2=A31 million
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"=C2=A32 million" di=
+sabled=3D""> D. =C2=A32 million
+        </label>
+    </li><br><br>
+    <li id=3D"q14_li">
+        Dr. Kwame Nkrumah was served as a prisoner in one of the following =
+prisons.
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"Nsawam prison" disa=
+bled=3D""> A. Nsawam prison
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q14" value=3D"Ussher fort prison"=
+ disabled=3D""> B. Ussher fort prison
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"Gold Coast prison" =
+disabled=3D""> C. Gold Coast prison
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"Achimota prison" di=
+sabled=3D""> D. Achimota prison
+        </label>
+    </li><br><br>
+    <li id=3D"q15_li">
+        Kwame Nkrumah was not prevented from contesting for a seat in the A=
+ccra Central Constituency called .........................
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"Olebu" disabled=3D"=
+"> A. Olebu
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q15" value=3D"Odododiodio" disabl=
+ed=3D""> B. Odododiodio
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"Ofankor" disabled=
+=3D""> C. Ofankor
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"Madina" disabled=3D=
+""> D. Madina
+        </label>
+    </li><br><br>
+    <li id=3D"q16_li">
+        Which of the following date is exactly the middle of the month Marc=
+h?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q16" value=3D"16th March" disable=
+d=3D""> A. 16th March
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"17th March" disable=
+d=3D""> B. 17th March
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"18th March" disable=
+d=3D""> C. 18th March
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"6th March" disabled=
+=3D""> D. 6th March
+        </label>
+    </li><br><br>
+    <li id=3D"q17_li">
+        There is a country which is just eastward to Ghana.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q17" value=3D"Togo" disabled=3D""=
+> A. Togo
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"Nigeria" disabled=
+=3D""> B. Nigeria
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"South Africa" disab=
+led=3D""> C. South Africa
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q17" value=3D"Kumasi" disabled=3D=
+""> D. Kumasi
+        </label>
+    </li><br><br>
+    <li id=3D"q18_li">
+        In which of the following regions can we locate the independence sq=
+uare?
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"Ghana" disabled=3D"=
+"> A. Ghana
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q18" value=3D"Western region" dis=
+abled=3D""> B. Western region
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"Volta region" disab=
+led=3D""> C. Volta region
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q18" value=3D"Greater Accra" disa=
+bled=3D""> D. Greater Accra
+        </label>
+    </li><br><br>
+    <li id=3D"q19_li">
+        During the precolonial era, the people of Ghana engaged themselves =
+in several 	................... and ............. works.
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"artistic and biolog=
+y" disabled=3D""> A. artistic and biology
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"pottery making" dis=
+abled=3D""> B. pottery making
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"geographical and ar=
+t" disabled=3D""> C. geographical and art
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q19" value=3D"artistic and techno=
+logical" disabled=3D""> D. artistic and technological
+        </label>
+    </li><br><br>
+    <li id=3D"q20_li">
+        All the following are materials needed in wood carving except .....=
+.................
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"mahogany" disabled=
+=3D""> A. mahogany
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"ebony" disabled=3D"=
+"> B. ebony
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q20" value=3D"clay" disabled=3D""=
+> C. clay
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q20" value=3D"wawa" disabled=3D""=
+> D. wawa
+        </label>
+    </li><br><br>
+    <li id=3D"q21_li">
+        Which of the following is not an importance of cloth weaving?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q21" value=3D"for weighing gold d=
+ust" disabled=3D""> A. for weighing gold dust
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q21" value=3D"for employment" dis=
+abled=3D""> B. for employment
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q21" value=3D"for domestic use" d=
+isabled=3D""> C. for domestic use
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q21" value=3D"it is used as trade=
+ item" disabled=3D""> D. it is used as trade item
+        </label>
+    </li><br><br>
+    <li id=3D"q22_li">
+        Where in Ghana can we locate Labadi beach?
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q22" value=3D"Kumasi" disabled=3D=
+""> A. for weighing gold dust
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q22" value=3D"Accra" disabled=3D"=
+"> B. for employment
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q22" value=3D"Cape Coast" disable=
+d=3D""> C. for domestic use
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q22" value=3D"Ho" disabled=3D""> =
+D. it is used as trade item
+        </label>
+    </li><br><br>
+    <li id=3D"q23_li">
+        When is Dr. Kwame Nkrumah=E2=80=99s birthday?
+        <br><label>
+            <input type=3D"radio" name=3D"q23" value=3D"16th March" disable=
+d=3D""> A. 16th March
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q23" value=3D"22nd September" dis=
+abled=3D""> B. 22nd September
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q23" value=3D"21st September" dis=
+abled=3D""> C. 21st September
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q23" value=3D"25th December" disa=
+bled=3D""> D. 25th December
+        </label>
+    </li><br><br>
+    <li id=3D"q24_li">
+        Which of the following title did Nkrumah take upon himself?
+        <br><label>
+            <input type=3D"radio" name=3D"q24" value=3D"=E2=80=9Cthe warrio=
+r=E2=80=9D" disabled=3D""> A. =E2=80=9Cthe warrior=E2=80=9D
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q24" value=3D"=E2=80=98showboy=E2=
+=80=99 =E2=80=98osagyefo=E2=80=99" disabled=3D""> B. =E2=80=98showboy=E2=80=
+=99 =E2=80=98osagyefo=E2=80=99
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q24" value=3D"=E2=80=98the great =
+man=E2=80=99" disabled=3D""> C. =E2=80=98the great man=E2=80=99
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q24" value=3D"=E2=80=98showboy=E2=
+=80=99 =E2=80=98okyerefo=E2=80=99" disabled=3D""> D. =E2=80=98showboy=E2=80=
+=99 =E2=80=98okyerefo=E2=80=99
+        </label>
+    </li><br><br>
+    <li id=3D"q25_li">
+        When did Kwame Nkrumah die?
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q25" value=3D"26th April, 1972" d=
+isabled=3D""> A. 26th April, 1972
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q25" value=3D"28th April, 1972" d=
+isabled=3D""> B. 28th April, 1972
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q25" value=3D"27th April, 1972" d=
+isabled=3D""> C. 27th April, 1972
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q25" value=3D"29th April, 1972" d=
+isabled=3D""> D. 29th April, 1972
+        </label>
+    </li><br><br>
+    <li id=3D"q26_li">
+        Which of the following led to Dr. J. B. Danquah=E2=80=99s death?
+        <br><label>
+            <input type=3D"radio" name=3D"q26" value=3D"productive diseases=
+ art" disabled=3D""> A. productive diseases art
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q26" value=3D"preventive action d=
+eparture" disabled=3D""> B. preventive action departure
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q26" value=3D"preventive detentio=
+n arts" disabled=3D""> C. preventive detention arts
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q26" value=3D"developmental of di=
+saster" disabled=3D""> D. developmental of disaster
+        </label>
+    </li><br><br>
+    <li id=3D"q27_li">
+        In which of the following prisons did Dr. J. B. Danquah die or loos=
+e his life in?
+        <br><label>
+            <input type=3D"radio" name=3D"q27" value=3D"Amasaman prison" di=
+sabled=3D""> A. Amasaman prison
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q27" value=3D"Nsawam prison" disa=
+bled=3D""> B. Nsawam prison
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q27" value=3D"Gold Coast prison" =
+disabled=3D""> C. Gold Coast prison
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q27" value=3D"Osu prison" disable=
+d=3D""> D. Osu prison
+        </label>
+    </li><br><br>
+    <li id=3D"q28_li">
+        Dr. J. B. Danquah was popularly known as ....................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q28" value=3D"=E2=80=98kyeretwie=
+=E2=80=99" disabled=3D""> A. =E2=80=98kyeretwie=E2=80=99
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q28" value=3D"=E2=80=98kyereku=E2=
+=80=99" disabled=3D""> B. =E2=80=98kyereku=E2=80=99
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q28" value=3D"=E2=80=98osagyefo=
+=E2=80=99" disabled=3D""> C. =E2=80=98osagyefo=E2=80=99
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q28" value=3D"=E2=80=98okyerefo=
+=E2=80=99" disabled=3D""> D. =E2=80=98okyerefo=E2=80=99
+        </label>
+    </li><br><br>
+    <li id=3D"q29_li">
+        He was popularly referred to as =E2=80=9CThe doyen of Gold Coast po=
+litics=E2=80=9D. Who was that?
+        <br><label>
+            <input type=3D"radio" name=3D"q29" value=3D"Kwame Nkrumah" disa=
+bled=3D""> A. Kwame Nkrumah
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q29" value=3D"K. A. Gbedemah" dis=
+abled=3D""> B. K. A. Gbedemah
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q29" value=3D"Kojo Botsio" disabl=
+ed=3D""> C. Kojo Botsio
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q29" value=3D"Dr. J. B. Danquah" =
+disabled=3D""> D. Dr. J. B. Danquah
+        </label>
+    </li><br><br>
+    <li id=3D"q30_li">
+        Who was the president of Ghana from 2017 to 2024?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q30" value=3D"Nana Addo Dankwah" =
+disabled=3D""> A. Nana Addo Dankwah
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q30" value=3D"John Dramani Mahama=
+" disabled=3D""> B. John Dramani Mahama
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q30" value=3D"J. J. Rawlings" dis=
+abled=3D""> C. J. J. Rawlings
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q30" value=3D"Atta Mills" disable=
+d=3D""> D. Atta Mills
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;" disabled=3D"">Submit</bu=
+tton>
+<p id=3D"result">You got 12 correct.</p>
+
+</body></html>
+------MultipartBoundary--418gQIO1WC0W6GgwZc777gFgJ516x3FpJGbrAVQUIA------

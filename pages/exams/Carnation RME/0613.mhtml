@@ -1,0 +1,806 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/rme.html
+Subject: 
+Date: Thu, 27 Mar 2025 15:24:48 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--z5vFRxFPjgp88iPTGYPPxqT5pcJMX0PrpCbx7wVIgV----"
+
+
+------MultipartBoundary--z5vFRxFPjgp88iPTGYPPxqT5pcJMX0PrpCbx7wVIgV----
+Content-Type: text/html
+Content-ID: <frame-44E69F7849DCBF5042BA4937A8246E16@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/rme.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><h1>R.M.E.</h1>
+<button id=3D"startBtn" disabled=3D"">Start</button>
+<p id=3D"timerDisplay">Time Left: 17:29</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <li id=3D"q1_li">
+        Comportment and courtesy promote ...............
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"confusion" disabled=
+=3D""> A. confusion
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"suspicion" disabled=
+=3D""> B. suspicion
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q1" value=3D"mutual respect and h=
+armony" disabled=3D""> C. mutual respect and harmony
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"selfishness" disable=
+d=3D""> D. selfishness
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">
+        Which of the following behaviours does not show courtesy?
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"respect for the aged=
+" disabled=3D""> A. respect for the aged
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"apologizing for harm=
+ caused to a friend" disabled=3D""> B. apologizing for harm caused to a fri=
+end
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"helping the poor" di=
+sabled=3D""> C. helping the poor
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q2" value=3D"being aggressive" di=
+sabled=3D""> D. being aggressive
+        </label>
+    </li><br><br>
+    <li id=3D"q3_li">
+        Which of the following statements best explains why eating late at =
+night is bad?
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"food digests well" d=
+isabled=3D""> A. food digests well
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q3" value=3D"one develops big sto=
+mach" disabled=3D""> B. one develops big stomach
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"one is able to sleep=
+" disabled=3D""> C. one is able to sleep
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"one does not get sic=
+k often" disabled=3D""> D. one does not get sick often
+        </label>
+    </li><br><br>
+    <li id=3D"q4_li">
+        Which of the following behaviours shows comportment?
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"patience" disabled=
+=3D""> A. patience
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q4" value=3D"control of temper" d=
+isabled=3D""> B. control of temper
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"being insulting" dis=
+abled=3D""> C. being insulting
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"refusing to fight" d=
+isabled=3D""> D. refusing to fight
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">
+        We show good manners when we ...................
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"give instant justice=
+ to a thief" disabled=3D""> A. give instant justice to a thief
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"greet our chief with=
+ our cap on" disabled=3D""> B. greet our chief with our cap on
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q5" value=3D"eat very well when d=
+inner is served" disabled=3D""> C. eat very well when dinner is served
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q5" value=3D"smile to people" dis=
+abled=3D""> D. smile to people
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">
+        When a child develops a good spirit of responsibility, he will ....=
+................
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"win many prizes at s=
+chool" disabled=3D""> A. win many prizes at school
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"pass all his examina=
+tions" disabled=3D""> B. pass all his examinations
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q6" value=3D"enjoy peace and succ=
+ess" disabled=3D""> C. enjoy peace and success
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q6" value=3D"become tolerant and =
+sincere" disabled=3D""> D. become tolerant and sincere
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">
+        The name Jesus Christ, is associated with ..................
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"Islamic religion" di=
+sabled=3D""> A. Islamic religion
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q7" value=3D"Christian religion" =
+disabled=3D""> B. Christian religion
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"African Traditional =
+religion" disabled=3D""> C. African Traditional religion
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">
+        Another name for non-religious song is .....................
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"reggae song" disable=
+d=3D""> A. reggae song
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"hip-life song" disab=
+led=3D""> B. hip-life song
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q8" value=3D"secular song" disabl=
+ed=3D""> C. secular song
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"raga song" disabled=
+=3D""> D. raga song
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">
+        Which of the following names is mostly Associated with gospel songs=
+?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q9" value=3D"God" disabled=3D""> =
+A. God
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"ancestral spirits" d=
+isabled=3D""> B. ancestral spirits
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"angels" disabled=3D"=
+"> C. angels
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"Mohmmed" disabled=3D=
+""> D. Mohmmed
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">
+        Which of the following statements about traditional songs is not co=
+rrect?
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"they are sung to en=
+tertain people" disabled=3D""> A. they are sung to entertain people
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"they are sung to ho=
+nour the dead" disabled=3D""> B. they are sung to honour the dead
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"they are sung to te=
+ll stories" disabled=3D""> C. they are sung to tell stories
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q10" value=3D"they are sung to in=
+sult chief" disabled=3D""> D. they are sung to insult chief
+        </label>
+    </li><br><br>
+    <li id=3D"q11_li">
+        The person who leads Muslims to pray in the Mosque on every Friday =
+afternoon is the ........................
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"pastor" disabled=3D=
+""> A. pastor
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q11" value=3D"Imam" disabled=3D""=
+> B. Imam
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"bishop" disabled=3D=
+""> C. bishop
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"soothsayer" disable=
+d=3D""> D. soothsayer
+        </label>
+    </li><br><br>
+    <li id=3D"q12_li">
+        A chapter in a Qur=E2=80=99an is called ...................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q12" value=3D"Sura" disabled=3D""=
+> A. Sura
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"Sunnah" disabled=3D=
+""> B. Sunnah
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"Hadith" disabled=3D=
+""> C. Hadith
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"Ayah" disabled=3D""=
+> D. Ayah
+        </label>
+    </li><br><br>
+    <li id=3D"q13_li">
+        Which of the following drinks is not suitable for pouring libation?
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"palm wine" disabled=
+=3D""> A. palm wine
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"akpeteshie" disable=
+d=3D""> B. akpeteshie
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"schnaps" disabled=
+=3D""> C. schnaps
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q13" value=3D"Coca-Cola" disabled=
+=3D""> D. Coca-Cola
+        </label>
+    </li><br><br>
+    <li id=3D"q14_li">
+        Which of the following statements about prayer is not correct?
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q14" value=3D"prayer brings us cl=
+oser to God" disabled=3D""> A. prayer brings us closer to God
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"prayer makes us hol=
+y and upright" disabled=3D""> B. prayer makes us holy and upright
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q14" value=3D"prayer makes us wea=
+k" disabled=3D""> C. prayer makes us weak
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"prayer is used to a=
+cknowledge the omnipresence of God" disabled=3D""> D. prayer is used to ack=
+nowledge the omnipresence of God
+        </label>
+    </li><br><br>
+    <li id=3D"q15_li">
+        Which of the following is not an example of a religious festival?
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"Easter" disabled=3D=
+""> A. Easter
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"Eid-ul-Adha" disabl=
+ed=3D""> B. Eid-ul-Adha
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q15" value=3D"Bragoro" disabled=
+=3D""> C. Bragoro
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q15" value=3D"prayer brings us cl=
+oser to God Christmas" disabled=3D""> D. prayer brings us closer to God Chr=
+istmas
+        </label>
+    </li><br><br>
+    <li id=3D"q16_li">
+        The spiritual book used by Muslims to worship Allah is the ........=
+............
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q16" value=3D"Holy Qur=E2=80=99an=
+" disabled=3D""> A. Holy Qur=E2=80=99an
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"Holy Bible" disable=
+d=3D""> B. Holy Bible
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"seven books of Mose=
+s" disabled=3D""> C. seven books of Moses
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"book of death" disa=
+bled=3D""> D. book of death
+        </label>
+    </li><br><br>
+    <li id=3D"q17_li">
+        Which of the following is an Islamic festival?
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"Christmas" disabled=
+=3D""> A. Christmas
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q17" value=3D"Eid-ul-Fitr" disabl=
+ed=3D""> B. Eid-ul-Fitr
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"easter" disabled=3D=
+""> C. easter
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"Odwira" disabled=3D=
+""> D. Odwira
+        </label>
+    </li><br><br>
+    <li id=3D"q18_li">
+        Which of the following is a place of worship to the traditionalist?
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"mosque" disabled=3D=
+""> A. mosque
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q18" value=3D"shrine" disabled=3D=
+""> B. shrine
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"church" disabled=3D=
+""> C. church
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"synagogue" disabled=
+=3D""> D. synagogue
+        </label>
+    </li><br><br>
+    <li id=3D"q19_li">
+        All the following are as a result of the effect of disobedience exc=
+ept ...................
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"growing to become i=
+rresponsible adults" disabled=3D""> A. growing to become irresponsible adul=
+ts
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q19" value=3D"tarnishing the name=
+ of the family" disabled=3D""> B. tarnishing the name of the family
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"becoming a liabilit=
+y to the society" disabled=3D""> C. becoming a liability to the society
+        </label>
+    </li><br><br>
+    <li id=3D"q20_li">
+        Children are punished for being disobedient by their teachers becau=
+se .......................
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"they will be reward=
+ed" disabled=3D""> A. they will be rewarded
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q20" value=3D"it is God=E2=80=99s=
+ commandment" disabled=3D""> B. it is God=E2=80=99s commandment
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"disobedience promot=
+es unity" disabled=3D""> C. disobedience promotes unity
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"they will become un=
+iversity graduates" disabled=3D""> D. they will become university graduates
+        </label>
+    </li><br><br>
+    <li id=3D"q21_li">
+        Rules and regulations are important because ......................
+        <br><label>
+            <input type=3D"radio" name=3D"q21" value=3D"they help us grow" =
+disabled=3D""> A. they help us grow
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q21" value=3D"they shape our beha=
+viour" disabled=3D""> B. they shape our behaviour
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q21" value=3D"they help us to mai=
+ntain our culture" disabled=3D""> C. they help us to maintain our culture
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q21" value=3D"they promote confli=
+ct in society" disabled=3D""> D. they promote conflict in society
+        </label>
+    </li><br><br>
+    <li id=3D"q22_li">
+        The traditionalist must obey ....................
+        <br><label>
+            <input type=3D"radio" name=3D"q22" value=3D"the supreme being o=
+nly" disabled=3D""> A. the supreme being only
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q22" value=3D"the lesser gods and=
+ ancestral spirits" disabled=3D""> B. the lesser gods and ancestral spirits
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q22" value=3D"the lesser gods" di=
+sabled=3D""> C. the lesser gods
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q22" value=3D"the supreme being, =
+the lesser gods and ancestral spirits" disabled=3D""> D. the supreme being,=
+ the lesser gods and ancestral spirits
+        </label>
+    </li><br><br>
+    <li id=3D"q23_li">
+        The payment of school fees and other bills at home is mainly the re=
+sponsibility of the .....................
+        <br><label>
+            <input type=3D"radio" name=3D"q23" value=3D"grandfather" disabl=
+ed=3D""> A. grandfather
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q23" value=3D"mother" disabled=3D=
+""> B. mother
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q23" value=3D"uncle" disabled=3D"=
+"> C. uncle
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q23" value=3D"father" disabled=3D=
+""> D. father
+        </label>
+    </li><br><br>
+    <li id=3D"q24_li">
+        In order to live in harmony with family members, we should be .....=
+..................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q24" value=3D"respectful" disable=
+d=3D""> A. respectful
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q24" value=3D"hard-working" disab=
+led=3D""> B. hard-working
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q24" value=3D"courageous" disable=
+d=3D""> C. courageous
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q24" value=3D"faithful" disabled=
+=3D""> D. faithful
+        </label>
+    </li><br><br>
+    <li id=3D"q25_li">
+        Which of the following attributes in Islam means that God is the on=
+ly true God that deserves praises, worship and respect?
+        <br><label>
+            <input type=3D"radio" name=3D"q25" value=3D"Al-Adi" disabled=3D=
+""> A. Al-Adi
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q25" value=3D"Al-Aziz" disabled=
+=3D""> B. Al-Aziz
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q25" value=3D"Al-Rabb" disabled=
+=3D""> C. Al-Rabb
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q25" value=3D"Allah" disabled=3D"=
+"> D. Allah
+        </label>
+    </li><br><br>
+    <li id=3D"q26_li">
+        Muslims call God ....................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q26" value=3D"Allah" disabled=3D"=
+"> A. Allah
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q26" value=3D"Nyame" disabled=3D"=
+"> B. Nyame
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q26" value=3D"Mawu" disabled=3D""=
+> C. Mawu
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q26" value=3D"=E2=80=9COboade=E2=
+=80=9D" disabled=3D""> D. =E2=80=9COboade=E2=80=9D
+        </label>
+    </li><br><br>
+    <li id=3D"q27_li">
+        The following are attributes of God by the traditionalist except ..=
+....................
+        <br><label>
+            <input type=3D"radio" name=3D"q27" value=3D"God is the creator"=
+ disabled=3D""> A. God is the creator
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q27" value=3D"God is faithful" di=
+sabled=3D""> B. God is faithful
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q27" value=3D"God is divine" disa=
+bled=3D""> C. God is divine
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q27" value=3D"God is forgiving" d=
+isabled=3D""> D. God is forgiving
+        </label>
+    </li><br><br>
+    <li id=3D"q28_li">
+        All the major religions in Ghana believe .........................
+        <br><label>
+            <input type=3D"radio" name=3D"q28" value=3D"in ancestral worshi=
+p" disabled=3D""> A. in ancestral worship
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q28" value=3D"that God is everywh=
+ere" disabled=3D""> B. that God is everywhere
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q28" value=3D"in being saved for =
+salvation" disabled=3D""> C. in being saved for salvation
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q28" value=3D"that dwarf exist in=
+ the forest" disabled=3D""> D. that dwarf exist in the forest
+        </label>
+    </li><br><br>
+    <li id=3D"q29_li">
+        Al-Razak in Islam means that God is ....................
+        <br><label>
+            <input type=3D"radio" name=3D"q29" value=3D"just" disabled=3D""=
+> A. just
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q29" value=3D"the great provider"=
+ disabled=3D""> B. the great provider
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q29" value=3D"the truthful one" d=
+isabled=3D""> C. the truthful one
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q29" value=3D"the sufficient one"=
+ disabled=3D""> D. the sufficient one
+        </label>
+    </li><br><br>
+    <li id=3D"q30_li">
+        By creating Adam and Eve, God was establishing the institution of .=
+....................
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q30" value=3D"religion" disabled=
+=3D""> A. religion
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q30" value=3D"friendship" disable=
+d=3D""> B. friendship
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q30" value=3D"brotherliness" disa=
+bled=3D""> C. brotherliness
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q30" value=3D"marriage" disabled=
+=3D""> D. marriage
+        </label>
+    </li><br><br>
+    <li id=3D"q31_li">
+        When God told man to till the land, He meant that man must ........=
+.............
+        <br><label>
+            <input type=3D"radio" name=3D"q31" value=3D"be courageous" disa=
+bled=3D""> A. be courageous
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q31" value=3D"work hard" disabled=
+=3D""> B. work hard
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q31" value=3D"enjoy life" disable=
+d=3D""> C. enjoy life
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q31" value=3D"control the land" d=
+isabled=3D""> D. control the land
+        </label>
+    </li><br><br>
+    <li id=3D"q32_li">
+        The Ewes call God Mawu to indicate their belief in Him as the .....=
+....................
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q32" value=3D"creator" disabled=
+=3D""> A. creator
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q32" value=3D"provider" disabled=
+=3D""> B. provider
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q32" value=3D"merciful" disabled=
+=3D""> C. merciful
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q32" value=3D"greatest" disabled=
+=3D""> D. greatest
+        </label>
+    </li><br><br>
+    <li id=3D"q33_li">
+        In the garden of Eden, God gave authority to Adam to ..............=
+..............
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q33" value=3D"plant more trees" d=
+isabled=3D""> A. plant more trees
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q33" value=3D"till the land and m=
+ake it fruitful" disabled=3D""> B. till the land and make it fruitful
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q33" value=3D"eat from all fruits=
+ in the garden" disabled=3D""> C. eat from all fruits in the garden
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q33" value=3D"oversee all created=
+ things" disabled=3D""> D. oversee all created things
+        </label>
+    </li><br><br>
+    <li id=3D"q34_li">
+        By creating the world from one stage to another, God wanted humanki=
+nd to do things in ..........................
+        <br><label>
+            <input type=3D"radio" name=3D"q34" value=3D"a haphazard way" di=
+sabled=3D""> A. a haphazard way
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q34" value=3D"a comfortable way" =
+disabled=3D""> B. a comfortable way
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q34" value=3D"an orderly way" dis=
+abled=3D""> C. an orderly way
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q34" value=3D"one day" disabled=
+=3D""> D. one day
+        </label>
+    </li><br><br>
+    <li id=3D"q35_li">
+        According to Christian teachings, God created man and woman on the =
+.......................
+        <br><label>
+            <input type=3D"radio" name=3D"q35" value=3D"first day" disabled=
+=3D""> A. first day
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q35" value=3D"second day" disable=
+d=3D""> B. second day
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q35" value=3D"third day" disabled=
+=3D""> C. third day
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q35" value=3D"sixth day" disabled=
+=3D""> D. sixth day
+        </label>
+    </li><br><br>
+    <li id=3D"q36_li">
+        The religion that traces its roots in Africa is ...................
+        <br><label>
+            <input type=3D"radio" name=3D"q36" value=3D"Christianity" disab=
+led=3D""> A. Christianity
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q36" value=3D"Islam" disabled=3D"=
+"> B. Islam
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q36" value=3D"African Traditional=
+ religion" disabled=3D""> C. African Traditional religion
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q36" value=3D"Buddhism" disabled=
+=3D""> D. Buddhism
+        </label>
+    </li><br><br>
+    <li id=3D"q37_li">
+        To respect the views of others, one has to be .....................=
+..
+        <br><label>
+            <input type=3D"radio" name=3D"q37" value=3D"honest" disabled=3D=
+""> A. honest
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q37" value=3D"calm" disabled=3D""=
+> B. calm
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q37" value=3D"tolerant" disabled=
+=3D""> C. tolerant
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q37" value=3D"patriotic" disabled=
+=3D""> D. patriotic
+        </label>
+    </li><br><br>
+    <li id=3D"q38_li">
+        All the following show good character except ...................
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q38" value=3D"honesty" disabled=
+=3D""> A. honesty
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q38" value=3D"insincerity" disabl=
+ed=3D""> B. insincerity
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q38" value=3D"loyalty" disabled=
+=3D""> C. loyalty
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q38" value=3D"courage" disabled=
+=3D""> D. courage
+        </label>
+    </li><br><br>
+    <li id=3D"q39_li">Which of the following personalities is introduced as=
+ =E2=80=9CYour Excellency=E2=80=9D?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q39" value=3D"high commission" di=
+sabled=3D""> A. high commission
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q39" value=3D"the chief justice" =
+disabled=3D""> B. the chief justice
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q39" value=3D"cardinal" disabled=
+=3D""> C. cardinal
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q39" value=3D"bishop" disabled=3D=
+""> D. bishop
+        </label>
+    </li><br><br>
+    <li id=3D"q40_li">
+        Which of the following is not a positive work ethic?
+        <br><label>
+            <input type=3D"radio" name=3D"q40" value=3D"honesty" disabled=
+=3D""> A. honesty
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q40" value=3D"loyalty" disabled=
+=3D""> B. loyalty
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q40" value=3D"patience" disabled=
+=3D""> C. patience
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q40" value=3D"laziness" disabled=
+=3D""> D. laziness
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;" disabled=3D"">Submit</bu=
+tton>
+<p id=3D"result">You got 26 correct.</p>
+
+</body></html>
+------MultipartBoundary--z5vFRxFPjgp88iPTGYPPxqT5pcJMX0PrpCbx7wVIgV------

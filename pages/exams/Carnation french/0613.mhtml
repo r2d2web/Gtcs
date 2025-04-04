@@ -1,0 +1,310 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/french.html
+Subject: 
+Date: Fri, 28 Mar 2025 09:49:45 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--BgytApnvSa2iblrLpoqKc5B27TGEVgmu6qO78TzGAa----"
+
+
+------MultipartBoundary--BgytApnvSa2iblrLpoqKc5B27TGEVgmu6qO78TzGAa----
+Content-Type: text/html
+Content-ID: <frame-C6F1B7AEF93EFA2A99EEEB473C86672A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/french.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><h1>FRENCH</h1>
+<button id=3D"startBtn" disabled=3D"">Start</button>
+<p id=3D"timerDisplay">Time Left: 15:24</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <li id=3D"q1_li">Nous ___________dans une grande maison=20
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q1" value=3D"A" disabled=3D""> A.=
+ habitons            =20
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q1" value=3D"B" disabled=3D""> B.=
+ habitent         =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"C" disabled=3D""> C.=
+ habitez
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">Dans la cuisine, il y a ___________________
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q2" value=3D"A" disabled=3D""> A.=
+ un lit                   =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q2" value=3D"B" disabled=3D""> B.=
+ des cuill=C3=A8res =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"C" disabled=3D""> C.=
+ drap
+        </label>
+    </li><br><br>
+    <li id=3D"q3_li">Mon fr=C3=A8re ____________dans sa chambre=20
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"A" disabled=3D""> A.=
+ dors           =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q3" value=3D"B" disabled=3D""> B.=
+ dort    =20
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q3" value=3D"C" disabled=3D""> C.=
+ dormir
+        </label>
+    </li><br><br>
+    <li id=3D"q4_li">La maison est ________________________
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q4" value=3D"A" disabled=3D""> A.=
+ blanche              =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"B" disabled=3D""> B.=
+ blanc         =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"C" disabled=3D""> C.=
+ blancs
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">Ma m=C3=A8re ________ regarder les films=20
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q5" value=3D"A" disabled=3D""> A.=
+ aim                     =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q5" value=3D"B" disabled=3D""> B.=
+ aime                =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"C" disabled=3D""> C.=
+ aimer
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">Kofi _____________________la porte =C3=A0 Ama
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"A" disabled=3D""> A.=
+ ouvrir                  =20
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q6" value=3D"B" disabled=3D""> B.=
+ ouvres             =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q6" value=3D"C" disabled=3D""> C.=
+ ouvre
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">Ma s=C5=93ur pr=C3=A9pare =C3=A0 _____________________
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q7" value=3D"A" disabled=3D""> A.=
+ la cuisine           =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"B" disabled=3D""> B.=
+ la douche        =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"C" disabled=3D""> C.=
+ au salon
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">__________mangeons du riz
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q8" value=3D"A" disabled=3D""> A.=
+ Vous                   =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q8" value=3D"B" disabled=3D""> B.=
+ Nous                =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"C" disabled=3D""> C.=
+ ils
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">La chambre est________________________
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"A" disabled=3D""> A.=
+ grand                 =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q9" value=3D"B" disabled=3D""> B.=
+ grande              =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"C" disabled=3D""> C.=
+ grands
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">________ =C3=A9l=C3=A8ves jouent au football=20
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q10" value=3D"A" disabled=3D""> A=
+. Les                      =20
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q10" value=3D"B" disabled=3D""> B=
+. Le                      =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"C" disabled=3D""> C=
+. La
+        </label>
+    </li><br><br>
+    <li id=3D"q11_li">Ma s=C5=93ur ___________________sa chambre=20
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q11" value=3D"A" disabled=3D""> A=
+. balaie                  =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"B" disabled=3D""> B=
+. balaies              =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"C" disabled=3D""> C=
+. balai
+        </label>
+    </li><br><br>
+    <li id=3D"q12_li">Je _________ mes devoirs de maison=20
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q12" value=3D"A" disabled=3D""> A=
+. fait                        =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"B" disabled=3D""> B=
+. faits                    =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q12" value=3D"C" disabled=3D""> C=
+. fais
+        </label>
+    </li><br><br>
+    <li id=3D"q13_li">Kojo _______________un livre de Fran=C3=A7ais
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"A" disabled=3D""> A=
+. lire                        =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"B" disabled=3D""> B=
+. lis                        =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q13" value=3D"C" disabled=3D""> C=
+. lit
+        </label>
+    </li><br><br>
+    <li id=3D"q14_li">C'est une ________ =C3=A0 =C3=A9tage.
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"A" disabled=3D""> A=
+. champ                  =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q14" value=3D"B" disabled=3D""> B=
+. maison              =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"C" disabled=3D""> C=
+. salon=20
+        </label>
+    </li><br><br>
+    <li id=3D"q15_li">=C3=80 quelle heure tu te r=C3=A9veilles?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q15" value=3D"A" disabled=3D""> A=
+. sept heures          =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"B" disabled=3D""> B=
+. cinq jours          =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"C" disabled=3D""> C=
+. minutes=20
+        </label>
+    </li><br><br>
+    <li id=3D"q16_li">Je trends le petit d=C3=A9jeuner le _____________
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"A" disabled=3D""> A=
+. le midi                    =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q16" value=3D"B" disabled=3D""> B=
+. le matin              =20
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q16" value=3D"C" disabled=3D""> C=
+. le soir=20
+        </label>
+    </li><br><br>
+    <li id=3D"q17_li">Ama a une _______________robe=20
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"A" disabled=3D""> A=
+. bel                           =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"B" disabled=3D""> B=
+. belles                    =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q17" value=3D"C" disabled=3D""> C=
+. belle
+        </label>
+    </li><br><br>
+    <li id=3D"q18_li">Je ___________une chemise rouge
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q18" value=3D"A" disabled=3D""> A=
+. porte                       =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"B" disabled=3D""> B=
+. port                      =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"C" disabled=3D""> C=
+. portes
+        </label>
+    </li><br><br>
+    <li id=3D"q19_li">Mon amie aime ______________________
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"A" disabled=3D""> A=
+. nages                      =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q19" value=3D"B" disabled=3D""> B=
+. nage                    =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"C" disabled=3D""> C=
+. nager
+        </label>
+    </li><br><br>
+    <li id=3D"q20_li">_________ s=E2=80=99appelle Tender Care School=20
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"A" disabled=3D""> A=
+. Mon village          =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"B" disabled=3D""> B=
+. Mon pays       =20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q20" value=3D"C" disabled=3D""> C=
+. mon =C3=A9cole=20
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;" disabled=3D"">Submit</bu=
+tton>
+<p id=3D"result">You got 11 correct.</p>
+
+</body></html>
+------MultipartBoundary--BgytApnvSa2iblrLpoqKc5B27TGEVgmu6qO78TzGAa------
