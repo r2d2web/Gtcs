@@ -1,0 +1,312 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/rme.html
+Subject: 
+Date: Fri, 21 Mar 2025 11:33:13 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--nvzMIQht7ujkgzjF7v3S1KKHjS0JaH45Id8xTGevtR----"
+
+
+------MultipartBoundary--nvzMIQht7ujkgzjF7v3S1KKHjS0JaH45Id8xTGevtR----
+Content-Type: text/html
+Content-ID: <frame-4488A016F8D741D5BB4C2E2744DFC17C@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/rme.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252"></head><body><h1>R.M.E.</h1>
+<button id=3D"startBtn" disabled=3D"">Start</button>
+<p id=3D"timerDisplay">Time Left: 16:22</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <h2>Tick the correct answer.</h2>
+    <li id=3D"q1_li">_____________ is the leader of Christians.
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q1" value=3D"A" disabled=3D""> A.=
+ pastor
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q1" value=3D"B" disabled=3D""> B.=
+ Jesus Christ
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"C" disabled=3D""> C.=
+ Bible
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">Christians read ____________
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q2" value=3D"A" disabled=3D""> A.=
+ Holy Qur'an
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"B" disabled=3D""> B.=
+ holy story book
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q2" value=3D"C" disabled=3D""> C.=
+ Holy Bible
+        </label>
+    </li><br><br>
+    <li id=3D"q3_li">Christians say __________ after prayers.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q3" value=3D"A" disabled=3D""> A.=
+ Amen
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"B" disabled=3D""> B.=
+ Able
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q3" value=3D"C" disabled=3D""> C.=
+ adjust
+        </label>
+    </li><br><br>
+    <li id=3D"q4_li">There are _______ main religions in Ghana.
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"A" disabled=3D""> A.=
+ 1
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"B" disabled=3D""> B.=
+ 2
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q4" value=3D"C" disabled=3D""> C.=
+ 3
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">___________ is the leader of Islam.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q5" value=3D"A" disabled=3D""> A.=
+ prophet Mohammed
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"B" disabled=3D""> B.=
+ prophet Moses
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q5" value=3D"C" disabled=3D""> C.=
+ prophet Adzah
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">Mulsim pray 5 times a day.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q6" value=3D"A" disabled=3D""> A.=
+ True
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"B" disabled=3D""> B.=
+ False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"C" disabled=3D""> C.=
+ none
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">Allah Akbar means __________
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q7" value=3D"A" disabled=3D""> A.=
+ Allah is great
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"B" disabled=3D""> B.=
+ Allah has a bar
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q7" value=3D"C" disabled=3D""> C.=
+ Allah's ark
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">Muslims worsip at a place called __________
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"A" disabled=3D""> A.=
+ Shrine
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"B" disabled=3D""> B.=
+ church
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q8" value=3D"C" disabled=3D""> C.=
+ mosque
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">The followers of Islam are called ____________
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"A" disabled=3D""> A.=
+ Christians
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q9" value=3D"B" disabled=3D""> B.=
+ Muslims
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"C" disabled=3D""> C.=
+ Traditionalists
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">__________ are the days of worship for Muslims.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q10" value=3D"A" disabled=3D""> A=
+. Friday
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"B" disabled=3D""> B=
+. Tuesday
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q10" value=3D"C" disabled=3D""> C=
+. Saturday
+        </label>
+    </li><br><br>
+    <li id=3D"q11_li">Do not accept __________ from strangers.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q11" value=3D"A" disabled=3D""> A=
+. gifts
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"B" disabled=3D""> B=
+. human beings
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"C" disabled=3D""> C=
+. dogs
+        </label>
+    </li><br><br>
+    <li id=3D"q12_li">Strangers are people we do not know.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q12" value=3D"A" disabled=3D""> A=
+. True
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"B" disabled=3D""> B=
+. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"C" disabled=3D""> C=
+. none
+        </label>
+    </li><br><br>
+    <li id=3D"q13_li">A community is a place where we live.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q13" value=3D"A" disabled=3D""> A=
+. True
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"B" disabled=3D""> B=
+. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"C" disabled=3D""> C=
+. none
+        </label>
+    </li><br><br>
+    <li id=3D"q14_li">Who is the head of the nuclear family?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q14" value=3D"A" disabled=3D""> A=
+. father
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"B" disabled=3D""> B=
+. mother
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"C" disabled=3D""> C=
+. children
+        </label>
+    </li><br><br>
+    <li id=3D"q15_li">A family is made up of mother, father and ___________=
+_
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"A" disabled=3D""> A=
+. dogs
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"B" disabled=3D""> B=
+. trees
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q15" value=3D"C" disabled=3D""> C=
+. children
+        </label>
+    </li><br><br>
+    <li id=3D"q16_li">Grandmother, uncles, cousins are part of the family.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q16" value=3D"A" disabled=3D""> A=
+. True
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"B" disabled=3D""> B=
+. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"C" disabled=3D""> C=
+. none
+        </label>
+    </li><br><br>
+    <li id=3D"q17_li">To be holy means you must do ___________ things.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q17" value=3D"A" disabled=3D""> A=
+. good
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"B" disabled=3D""> B=
+. bad
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"C" disabled=3D""> C=
+. none
+        </label>
+    </li><br><br>
+    <li id=3D"q18_li">Allah means _____________
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q18" value=3D"A" disabled=3D""> A=
+. God
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"B" disabled=3D""> B=
+. bomb
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"C" disabled=3D""> C=
+. school
+        </label>
+    </li><br><br>
+    <li id=3D"q19_li">There are 5 Gods.
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q19" value=3D"A" disabled=3D""> A=
+. True
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q19" value=3D"B" disabled=3D""> B=
+. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"C" disabled=3D""> C=
+. none
+        </label>
+    </li><br><br>
+    <li id=3D"q20_li">The bible says God lives in a place called _________
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q20" value=3D"A" disabled=3D""> A=
+. earth
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q20" value=3D"B" disabled=3D""> B=
+. heaven
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"C" disabled=3D""> C=
+. hell
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;" disabled=3D"">Submit</bu=
+tton>
+<p id=3D"result">You got 12 correct.</p>
+
+</body></html>
+------MultipartBoundary--nvzMIQht7ujkgzjF7v3S1KKHjS0JaH45Id8xTGevtR------

@@ -1,0 +1,331 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/science.html
+Subject: 
+Date: Wed, 26 Mar 2025 10:38:53 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--iOQM8CYB3HCC9tvbynvnQifan7tKc1BAqYkV4vUr7g----"
+
+
+------MultipartBoundary--iOQM8CYB3HCC9tvbynvnQifan7tKc1BAqYkV4vUr7g----
+Content-Type: text/html
+Content-ID: <frame-8BCAC0781E6CE32DF0E5AC8CE0EB0620@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/science.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252"></head><body><button id=3D"startBtn" disabled=3D"">Start</=
+button>
+<p id=3D"timerDisplay">Time Left: 0:26</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <li id=3D"q1_li">
+        Which of the following parts of plants is underground?
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"stem" disabled=3D"">=
+ A. stem
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q1" value=3D"leaves" disabled=3D"=
+"> B. leaves
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q1" value=3D"root" disabled=3D"">=
+ C. root
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">
+        Which of the following parts of plants are very colourful?
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"stem" disabled=3D"">=
+ A. stem
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q2" value=3D"flowers" disabled=3D=
+""> B. flowers
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q2" value=3D"root" disabled=3D"">=
+ C. root
+        </label>
+    </li><br><br>
+    <li id=3D"q3_li">
+        The part of fruits that is used to produce new plants is called ...=
+.............
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"root" disabled=3D"">=
+ A. root
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"flowers" disabled=3D=
+""> B. flowers
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q3" value=3D"seed" disabled=3D"">=
+ C. seed
+        </label>
+    </li><br><br>
+    <li id=3D"q4_li">
+        Plants make their food from water and ..............
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"clouds" disabled=3D"=
+"> A. clouds
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q4" value=3D"sunlight" disabled=
+=3D""> B. sunlight
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"heat" disabled=3D"">=
+ C. heat
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">
+        Which part of your body do you use to speak?
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"nose" disabled=3D"">=
+ A. nose
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"eyes" disabled=3D"">=
+ B. eyes
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q5" value=3D"mouth" disabled=3D""=
+> C. mouth
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">
+        Which of the following parts is in pair?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q6" value=3D"ears" disabled=3D"">=
+ A. ears
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q6" value=3D"nose" disabled=3D"">=
+ B. nose
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"head" disabled=3D"">=
+ C. head
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">
+        Which part of the human body is on the arm?
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"thigh" disabled=3D""=
+> A. thigh
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q7" value=3D"hand" disabled=3D"">=
+ B. hand
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q7" value=3D"hip" disabled=3D""> =
+C. hip
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">
+        Which of the following animals live in the forest?
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"cow" disabled=3D""> =
+A. cow
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q8" value=3D"turkey" disabled=3D"=
+"> B. turkey
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q8" value=3D"zebra" disabled=3D""=
+> C. zebra
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">
+        Which of the following animals live in holes?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q9" value=3D"rat" disabled=3D""> =
+A. rat
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"cat" disabled=3D""> =
+B. cat
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q9" value=3D"dog" disabled=3D""> =
+C. dog
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">
+        Which of the following animals live at home?
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q10" value=3D"elephant" disabled=
+=3D""> A. elephant
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"deer" disabled=3D""=
+> B. deer
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q10" value=3D"cat" disabled=3D"">=
+ C. cat
+        </label>
+    </li><br><br>
+    <li id=3D"q11_li">
+        One of the following is the ability to do work.
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q11" value=3D"force" disabled=3D"=
+"> A. force
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q11" value=3D"energy" disabled=3D=
+""> B. energy
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"neat" disabled=3D""=
+> C. neat
+        </label>
+    </li><br><br>
+    <li id=3D"q12_li">
+        Which of the following items is cold?
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"coal pot fire" disa=
+bled=3D""> A. coal pot fire
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"candle" disabled=3D=
+""> B. candle
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q12" value=3D"ice cream" disabled=
+=3D""> C. ice cream
+        </label>
+    </li><br><br>
+    <li id=3D"q13_li">
+        Which of the following gives animals the ability to do work?
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"sound" disabled=3D"=
+"> A. sound
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"sunlight" disabled=
+=3D""> B. sunlight
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q13" value=3D"food" disabled=3D""=
+> C. food
+        </label>
+    </li><br><br>
+    <li id=3D"q14_li">
+        All the following are reasons we eat except ....................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q14" value=3D"to be weak" disable=
+d=3D""> A. to be weak
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q14" value=3D"to grow" disabled=
+=3D""> B. to grow
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"to move" disabled=
+=3D""> C. to move
+        </label>
+    </li><br><br>
+    <li id=3D"q15_li">
+        To make a call we use a ......................
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q15" value=3D"torch" disabled=3D"=
+"> A. torch
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"TV" disabled=3D""> =
+B. TV
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q15" value=3D"mobile phone" disab=
+led=3D""> C. mobile phone
+        </label>
+    </li><br><br>
+    <li id=3D"q16_li">
+        Which electrical appliance is used for cooking?
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"air conditioner" di=
+sabled=3D""> A. air conditioner
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q16" value=3D"stove" disabled=3D"=
+"> B. stove
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q16" value=3D"washing machine" di=
+sabled=3D""> C. washing machine
+        </label>
+    </li><br><br>
+    <li id=3D"q17_li">
+        A push or a pull on an object is known as .................
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"work" disabled=3D""=
+> A. work
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"energy" disabled=3D=
+""> B. energy
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q17" value=3D"force" disabled=3D"=
+"> C. force
+        </label>
+    </li><br><br>
+    <li id=3D"q18_li">
+        To cut our nail short, we use ....................
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"scissors" disabled=
+=3D""> A. scissors
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q18" value=3D"pincers" disabled=
+=3D""> B. pincers
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q18" value=3D"nail cutters" disab=
+led=3D""> C. nail cutters
+        </label>
+    </li><br><br>
+    <li id=3D"q19_li">
+        Which of the following is used for sweeping?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q19" value=3D"broom" disabled=3D"=
+"> A. broom
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"hammer" disabled=3D=
+""> B. hammer
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q19" value=3D"scissors" disabled=
+=3D""> C. scissors
+        </label>
+    </li><br><br>
+    <li id=3D"q20_li">
+        Which of the following is used for cutting our clothes?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q20" value=3D"scissors" disabled=
+=3D""> A. scissors
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"nail cutter" disabl=
+ed=3D""> B. nail cutter
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q20" value=3D"pincers" disabled=
+=3D""> C. pincers
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;" disabled=3D"">Submit</bu=
+tton>
+<p id=3D"result">You got 6 correct.</p>
+
+</body></html>
+------MultipartBoundary--iOQM8CYB3HCC9tvbynvnQifan7tKc1BAqYkV4vUr7g------
