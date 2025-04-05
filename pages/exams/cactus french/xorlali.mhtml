@@ -1,0 +1,117 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/french.html
+Subject: 
+Date: Fri, 21 Mar 2025 08:17:10 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--4kxJK8tx7oACIVIrGWjxcd4fX673dZxyHiD1sQw8Fp----"
+
+
+------MultipartBoundary--4kxJK8tx7oACIVIrGWjxcd4fX673dZxyHiD1sQw8Fp----
+Content-Type: text/html
+Content-ID: <frame-0C2214FA0AC523193470517A325E0866@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/french.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><h1>FRENCH</h1>
+<button id=3D"startBtn" disabled=3D"">Start</button>
+<p id=3D"timerDisplay">Time Left: 16:52</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <li id=3D"q1_li">Je m'_______________Ama Amoah
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"A"> A. appelle      =
+                      =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"B"> B. m'appel
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">Mon =C3=A9cole s=E2=80=99appelle _______________
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"A"> A. Grace Tender =
+Care School=20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"B"> B. Morning Star =
+School=20
+        </label>
+    </li><br><br>
+    <li id=3D"q3_li">Three =3D ________________________
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"A"> A. cinq
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"B"> B. Trois
+        </label>
+    </li><br><br>
+    <li id=3D"q4_li">J' __________ans
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"A"> A. ai
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"B"> B. as
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">Mon =C3=A9cole =3D ____________________
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"A"> A. my school.   =
+                      =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"B"> B. my house=20
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">=C3=87a va tr=C3=A8s ______________________
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"A"> A. merci
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"B"> B. bien
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">Bonjour Ama, _________________Kofi
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"A"> A. Bonjour      =
+                          =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"B"> B. bonsoir=20
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">Noir =3D _________________________
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"A"> A. black
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"B"> B. red
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">Quel =C3=A2ge as-tu?
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"A"> A. Je vais bien.=
+                        =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"B"> B. J'ai 5 ans
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">Ma m=C3=A8re ________________Akosua
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"A"> A. s=E2=80=99ap=
+pelle                      =20
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"B"> B. s=E2=80=99ap=
+pels
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;">Submit</button>
+<p id=3D"result"></p>
+
+</body></html>
+------MultipartBoundary--4kxJK8tx7oACIVIrGWjxcd4fX673dZxyHiD1sQw8Fp------

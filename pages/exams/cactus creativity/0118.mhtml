@@ -1,0 +1,332 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/creativity.html
+Subject: 
+Date: Mon, 24 Mar 2025 14:22:27 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--0v1xjnwY3zPiDZp3VdwCVe9e7NFyPEkzwJhFEhXxfT----"
+
+
+------MultipartBoundary--0v1xjnwY3zPiDZp3VdwCVe9e7NFyPEkzwJhFEhXxfT----
+Content-Type: text/html
+Content-ID: <frame-2103BE938004C4CA420071B87573499B@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/creativity.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><h1>CREATIVITY</h1>
+<button id=3D"startBtn" disabled=3D"">Start</button>
+<p id=3D"timerDisplay">Time Left: 18:05</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <li id=3D"q1_li">
+        When we display artworks for people to see, it is called ..........=
+...
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"mistake" disabled=3D=
+""> A. mistake
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q1" value=3D"exhibition" disabled=
+=3D""> B. exhibition
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"enterprise" disabled=
+=3D""> C. enterprise
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">
+        Exhibition helps us to sell art works.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q2" value=3D"True" disabled=3D"">=
+ A. True
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"False" disabled=3D""=
+> B. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"none" disabled=3D"">=
+ C. none
+        </label>
+    </li><br><br>
+    <li id=3D"q3_li">
+        Before an exhibition, we fix a date.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q3" value=3D"True" disabled=3D"">=
+ A. True
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q3" value=3D"False" disabled=3D""=
+> B. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"none" disabled=3D"">=
+ C. none
+        </label>
+    </li><br><br>
+    <li id=3D"q4_li">
+        We don=E2=80=99t invite people to our exhibition.
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"True" disabled=3D"">=
+ A. True
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q4" value=3D"False" disabled=3D""=
+> B. False
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q4" value=3D"none" disabled=3D"">=
+ C. none
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">
+        We can display artworks on ............
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q5" value=3D"table" disabled=3D""=
+> A. table
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"beds" disabled=3D"">=
+ B. beds
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"none" disabled=3D"">=
+ C. none
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">O
+        Our environment is made up of living and ................... things=
+.
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"human" disabled=3D""=
+> A. human
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q6" value=3D"non-living" disabled=
+=3D""> B. non-living
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"river" disabled=3D""=
+> C. river
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">
+        Which of the following is not a natural thing?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q7" value=3D"hammer" disabled=3D"=
+"> A. hammer
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"river" disabled=3D""=
+> B. river
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"tree" disabled=3D"">=
+ C. tree
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">
+        God created natural things.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q8" value=3D"True" disabled=3D"">=
+ A. True
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"False" disabled=3D""=
+> B. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"none" disabled=3D"">=
+ C. none
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">
+        All the following are living things except ..................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q9" value=3D"cars" disabled=3D"">=
+ A. cars
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"trees" disabled=3D""=
+> B. trees
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"animals" disabled=3D=
+""> C. animals
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">
+        ............ is the surroundings in which we live.
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"city" disabled=3D""=
+> A. city
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"compound" disabled=
+=3D""> B. compound
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q10" value=3D"environment" disabl=
+ed=3D""> C. environment
+        </label>
+    </li><br><br>
+    <li id=3D"q11_li">
+        Which dance uses kente costume?
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"Damba" disabled=3D"=
+"> A. Damba
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q11" value=3D"Adowa" disabled=3D"=
+"> B. Adowa
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"Borborbor" disabled=
+=3D""> C. Borborbor
+        </label>
+    </li><br><br>
+    <li id=3D"q12_li">
+        The Damba dancer uses ....................
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q12" value=3D"kente" disabled=3D"=
+"> A. kente
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q12" value=3D"smock" disabled=3D"=
+"> B. smock
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"cloth" disabled=3D"=
+"> C. cloth
+        </label>
+    </li><br><br>
+    <li id=3D"q13_li">
+        Which of the following is added to costume?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q13" value=3D"beads" disabled=3D"=
+"> A. beads
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"knife" disabled=3D"=
+"> B. knife
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"chains" disabled=3D=
+""> C. chains
+        </label>
+    </li><br><br>
+    <li id=3D"q14_li">
+        Special dresses for dance and drama are called ...............
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"patterns" disabled=
+=3D""> A. patterns
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q14" value=3D"costumes" disabled=
+=3D""> B. costumes
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q14" value=3D"design" disabled=3D=
+""> C. design
+        </label>
+    </li><br><br>
+    <li id=3D"q15_li">
+        Our environment is made up of living and ............... things.
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q15" value=3D"human" disabled=3D"=
+"> A. human
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q15" value=3D"non-living" disable=
+d=3D""> B. non-living
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"river" disabled=3D"=
+"> C. river
+        </label>
+    </li><br><br>
+    <li id=3D"q16_li">
+        Which of the following is not a natural thing?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q16" value=3D"hammer" disabled=3D=
+""> A. hammer
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"river" disabled=3D"=
+"> B. river
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"tree" disabled=3D""=
+> C. tree
+        </label>
+    </li><br><br>
+    <li id=3D"q17_li">
+        God created all things.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q17" value=3D"True" disabled=3D""=
+> A. True
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"False" disabled=3D"=
+"> B. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"none" disabled=3D""=
+> C. none
+        </label>
+    </li><br><br>
+    <li id=3D"q18_li">
+        All the following are living things except ...............
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q18" value=3D"cars" disabled=3D""=
+> A. cars
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"trees" disabled=3D"=
+"> B. trees
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"animals" disabled=
+=3D""> C. animals
+        </label>
+    </li><br><br>
+    <li id=3D"q19_li">
+        .............. is the surroundings in which we live.
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"city" disabled=3D""=
+> A. city
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q19" value=3D"compound" disabled=
+=3D""> B. compound
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q19" value=3D"environment" disabl=
+ed=3D""> C. environment
+        </label>
+    </li><br><br>
+    <li id=3D"q20_li">
+        We can use clay to make a statue.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q20" value=3D"True" disabled=3D""=
+> A. True
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"False" disabled=3D"=
+"> B. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"none" disabled=3D""=
+> C. none
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;" disabled=3D"">Submit</bu=
+tton>
+<p id=3D"result">You got 14 correct.</p>
+
+</body></html>
+------MultipartBoundary--0v1xjnwY3zPiDZp3VdwCVe9e7NFyPEkzwJhFEhXxfT------

@@ -1,0 +1,337 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/history.html
+Subject: 
+Date: Tue, 25 Mar 2025 11:46:36 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ffwB28TtIkDnnga8arSK5LgAm19CDSAojJveuYA7mn----"
+
+
+------MultipartBoundary--ffwB28TtIkDnnga8arSK5LgAm19CDSAojJveuYA7mn----
+Content-Type: text/html
+Content-ID: <frame-B30D5EF76C4C1A9AC848A1696380B651@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/history.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><button id=3D"startBtn" disabled=3D"">Start</button>
+<p id=3D"timerDisplay">Time Left: 18:38</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <li id=3D"q1_li">
+        The name given to the people that make laws for the country is ....=
+............
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"president" disabled=
+=3D""> A. president
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q1" value=3D"lawyers" disabled=3D=
+""> B. lawyers
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q1" value=3D"parliamentarians" di=
+sabled=3D""> C. parliamentarians
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">
+        Dr. Kwame Nkrumah suggested the name =E2=80=98Ghana=E2=80=99 for ou=
+r country.
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q2" value=3D"True" disabled=3D"">=
+ A. True
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q2" value=3D"False" disabled=3D""=
+> B. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"none" disabled=3D"">=
+ C. none
+        </label>
+    </li><br><br>
+    <li id=3D"q3_li">
+        The first president of Ghana was ................
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"Dr. J. B. Danquah" d=
+isabled=3D""> A. Dr. J. B. Danquah
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q3" value=3D"John Mohammed" disab=
+led=3D""> B. John Mohammed
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q3" value=3D"Dr. Kwame Nkrumah" d=
+isabled=3D""> C. Dr. Kwame Nkrumah
+        </label>       =20
+    </li><br><br>
+    <li id=3D"q4_li">
+        Parliament House before Independence was called ..................
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"National Theatre" di=
+sabled=3D""> A. National Theatre
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"Jubilee House" disab=
+led=3D""> B. Jubilee House
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q4" value=3D"Legislative Assembly=
+" disabled=3D""> C. Legislative Assembly
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">
+        On which date was the name =E2=80=9CGhana=E2=80=9D officially adopt=
+ed?
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"3rd August, 1956" di=
+sabled=3D""> A. 3rd August, 1956
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"1st July, 2021" disa=
+bled=3D""> B. 1st July, 2021
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q5" value=3D"6th March, 1957" dis=
+abled=3D""> C. 6th March, 1957
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">
+        Who designed the national flag?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q6" value=3D"Theodosia Salome Oko=
+" disabled=3D""> A. Theodosia Salome Oko
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"Nii Amon Kotei" disa=
+bled=3D""> B. Nii Amon Kotei
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"Baba Yara" disabled=
+=3D""> C. Baba Yara
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">
+        The first group of Europeans to come to the Gold Coast were the ...=
+...............
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q7" value=3D"Portuguese" disabled=
+=3D""> A. Portuguese
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"English" disabled=3D=
+""> B. English
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q7" value=3D"French" disabled=3D"=
+"> C. French
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">
+        The English came from their country called ....................
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"Portugal" disabled=
+=3D""> A. Portugal
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q8" value=3D"Denmark" disabled=3D=
+""> B. Denmark
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q8" value=3D"England" disabled=3D=
+""> C. England
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">
+        Which of the following leaders suggested the change of name from th=
+e Gold Coast to =E2=80=9CGhana=E2=80=9D?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q9" value=3D"Dr. J. B. Danquah" d=
+isabled=3D""> A. Dr. J. B. Danquah
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"Mr. Ako Adjei" disab=
+led=3D""> B. Mr. Ako Adjei
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q9" value=3D"Dr. Kwame" disabled=
+=3D""> C. Dr. Kwame
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">
+        The name =E2=80=9CGhana=E2=80=9D means ..................
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q10" value=3D"Gold Coast" disable=
+d=3D""> A. Gold Coast
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"king of kings" disa=
+bled=3D""> B. king of kings
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q10" value=3D"war chief" disabled=
+=3D""> C. war chief
+        </label>
+    </li><br><br>
+    <li id=3D"q11_li">
+        ...................... announced independence for Ghana on 6th Marc=
+h, 1957.
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"Flt. Lt. Jerry John=
+ Rawlings" disabled=3D""> A. Flt. Lt. Jerry John Rawlings
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q11" value=3D"Mr. John Agyekum Ku=
+ffour" disabled=3D""> B. Mr. John Agyekum Kuffour
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q11" value=3D"Dr. Kwame Nkrumah" =
+disabled=3D""> C. Dr. Kwame Nkrumah
+        </label>
+    </li><br><br>
+    <li id=3D"q12_li">
+        Before Independence in 1957, Ghana was called .....................=
+.....
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q12" value=3D"Cape Coast" disable=
+d=3D""> A. Cape Coast
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"Accra" disabled=3D"=
+"> B. Accra
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q12" value=3D"Gold Coast" disable=
+d=3D""> C. Gold Coast
+        </label>
+    </li><br><br>
+    <li id=3D"q13_li">
+        The Ghana national flag was designed with how many colours?
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"3" disabled=3D""> A=
+. 3
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q13" value=3D"4" disabled=3D""> B=
+. 4
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"5" disabled=3D""> C=
+. 5
+        </label>
+    </li><br><br>
+    <li id=3D"q14_li">
+        Dr. Kwame Nkrumah was the prime minister of Ghana from 1957 to ....=
+............
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q14" value=3D"1960" disabled=3D""=
+> A. 1960
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q14" value=3D"1950" disabled=3D""=
+> B. 1950
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q14" value=3D"1948" disabled=3D""=
+> C. 1948
+        </label>
+    </li><br><br>
+    <li id=3D"q15_li">
+        Kwaw Ansah was a popular Ghanaian ......................
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"actress" disabled=
+=3D""> A. actress
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q15" value=3D"film maker" disable=
+d=3D""> B. film maker
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q15" value=3D"dancer" disabled=3D=
+""> C. dancer
+        </label>
+    </li><br><br>
+    <li id=3D"q16_li">
+        Heritage Africa was the first film made by Kwaw Ansah.
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q16" value=3D"True" disabled=3D""=
+> A. True
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q16" value=3D"False" disabled=3D"=
+"> B. False
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q16" value=3D"none" disabled=3D""=
+> C. none
+        </label>
+    </li><br><br>
+    <li id=3D"q17_li">
+        The first film he made was .....................
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"Heritage Africa" di=
+sabled=3D""> A. Heritage Africa
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q17" value=3D"Love Brewed In The =
+African Pot" disabled=3D""> B. Love Brewed In The African Pot
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"Love Knowledge" dis=
+abled=3D""> C. Love Knowledge
+        </label>
+    </li><br><br>
+    <li id=3D"q18_li">
+        Kofi Antu Bam was one of the best ................ in Ghana.
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q18" value=3D"artist" disabled=3D=
+""> A. artist
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q18" value=3D"actor" disabled=3D"=
+"> B. actor
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"pastor" disabled=3D=
+""> C. pastor
+        </label>
+    </li><br><br>
+    <li id=3D"q19_li">
+        He designed the ................. seat.
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"parliament" disable=
+d=3D""> A. parliament
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q19" value=3D"presidential" disab=
+led=3D""> B. presidential
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q19" value=3D"parliamentary" disa=
+bled=3D""> C. parliamentary
+        </label>
+    </li><br><br>
+    <li id=3D"q20_li">
+        It was used by ......................
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q20" value=3D"Dr. Kwame Nkrumah" =
+disabled=3D""> A. Dr. Kwame Nkrumah
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"Dr. J. B. Danquah" =
+disabled=3D""> B. Dr. J. B. Danquah
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q20" value=3D"J. J. Rawlings" dis=
+abled=3D""> C. J. J. Rawlings
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;" disabled=3D"">Submit</bu=
+tton>
+<p id=3D"result">You got 9 correct.</p>
+
+</body></html>
+------MultipartBoundary--ffwB28TtIkDnnga8arSK5LgAm19CDSAojJveuYA7mn------
