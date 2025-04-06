@@ -17,6 +17,7 @@ if (!/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
 
 
 
+
 function loginUser() {
     // Simulated user data (replace with real authentication)
     const users = {
@@ -181,7 +182,7 @@ function loginUser() {
         "0224": { password: "0551836497", homepage: "pages/Marigold/0224.html" },
         "0225": { password: "0256876950", homepage: "pages/Marigold/0225.html" },
         "0226": { password: "0242150146", homepage: "pages/Marigold/0226.html" },
-        "0227": { password: "", homepage: "pages/Marigold/0227.html" },
+        "0227": { password: "0597527425", homepage: "pages/Marigold/0227.html" },
         // Complete 
 
         // Rosemary
@@ -210,6 +211,7 @@ function loginUser() {
         "0323": { password: "0248421948", homepage: "pages/Rosemary/0323.html" },
         "0324": { password: "0243817570", homepage: "pages/Rosemary/0324.html" },
         "0325": { password: "0244874198", homepage: "pages/Rosemary/0325.html" },
+        "0326": { password: "0246306747", homepage: "pages/Rosemary/0326.html" },
         // Complete 
         
                     
@@ -238,6 +240,7 @@ function loginUser() {
         "0422": { password: "0545551466", homepage: "pages/Daffodils/0422.html" },
         "0423": { password: "0552050193", homepage: "pages/Daffodils/0423.html" },
         "0424": { password: "0599083030", homepage: "pages/Daffodils/0424.html" },
+        "0425": { password: "0246306747", homepage: "pages/Daffodils/0425.html" },
         // Complete 
 
 
