@@ -1,0 +1,238 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/ict.html
+Subject: 
+Date: Mon, 24 Mar 2025 14:29:32 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--gnBof5zKJJ1Xn2FGS5xO02w4aIiWakMsmuxf20XAGe----"
+
+
+------MultipartBoundary--gnBof5zKJJ1Xn2FGS5xO02w4aIiWakMsmuxf20XAGe----
+Content-Type: text/html
+Content-ID: <frame-FCAF2F1427BF8BB8CC231EBB291257DF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d2849dd781687bd1a064a9c1b8bfcd74ced6a5c5/MyFiles/cactus/ict.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252"></head><body><h1>I.C.T.</h1>
+<button id=3D"startBtn" disabled=3D"">Start</button>
+<p id=3D"timerDisplay">Time Left: 19:51</p>
+
+<ol id=3D"quiz" style=3D"display: block;">
+    <li id=3D"q1_li">Raw facts about people and events are called
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q1" value=3D"information" disable=
+d=3D""> A. information
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q1" value=3D"data" disabled=3D"">=
+ B. data
+        </label>
+    </li><br><br>
+    <li id=3D"q2_li">Age, height and shoe size are examples of
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q2" value=3D"number data" disable=
+d=3D""> A. number data
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q2" value=3D"text data" disabled=
+=3D""> B. text data
+        </label>
+    </li><br><br>
+    <li id=3D"q3_li">How many types of data do we have?
+        <br><label>
+            <input type=3D"radio" name=3D"q3" value=3D"2" disabled=3D""> A.=
+ 2
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q3" value=3D"5" disabled=3D""> B.=
+ 5
+        </label>
+    </li><br><br>
+    <li id=3D"q4_li">How many types of data do we have?
+        <br><label>
+            <input type=3D"radio" name=3D"q4" value=3D"number data" disable=
+d=3D""> A. number data
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q4" value=3D"text data" disabled=
+=3D""> B. text data
+        </label>
+    </li><br><br>
+    <li id=3D"q5_li">Music is an example of
+        <br><label>
+            <input type=3D"radio" name=3D"q5" value=3D"number data" disable=
+d=3D""> A. number data
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q5" value=3D"audio data" disabled=
+=3D""> B. audio data
+        </label>
+    </li><br><br>
+    <li id=3D"q6_li">Music is an example of
+        <br><label>
+            <input type=3D"radio" name=3D"q6" value=3D"Observing " disabled=
+=3D""> A. Observing=20
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q6" value=3D"Calculating" disable=
+d=3D""> B. Calculating
+        </label>
+    </li><br><br>
+    <li id=3D"q7_li">Looking at how plants grow over a period of time is an=
+ example of
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q7" value=3D"observation" disable=
+d=3D""> A. observation
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q7" value=3D"survey" disabled=3D"=
+"> B. survey
+        </label>
+    </li><br><br>
+    <li id=3D"q8_li">Listening to the teacher is an example of
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q8" value=3D"calculating" disable=
+d=3D""> A. calculating
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q8" value=3D"observing" disabled=
+=3D""> B. observing
+        </label>
+    </li><br><br>
+    <li id=3D"q9_li">When observing, which of the following is used to coll=
+ect data?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q9" value=3D"Checklist" disabled=
+=3D""> A. Checklist
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q9" value=3D"Questionnaire" disab=
+led=3D""> B. Questionnaire
+        </label>
+    </li><br><br>
+    <li id=3D"q10_li">Which of the following type of data is a description?
+        <br><label>
+            <input type=3D"radio" name=3D"q10" value=3D"Audio" disabled=3D"=
+"> A. Audio
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q10" value=3D"Text" disabled=3D""=
+> B. Text
+        </label>
+    </li><br><br>
+    <li id=3D"q11_li">The place where we get information from is known as
+        <br><label>
+            <input type=3D"radio" name=3D"q11" value=3D"information" disabl=
+ed=3D""> A. information
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q11" value=3D"source of informati=
+on" disabled=3D""> B. source of information
+        </label>
+    </li><br><br>
+    <li id=3D"q12_li">How many sources of information do we have?
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q12" value=3D"2" disabled=3D""> A=
+. 2
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q12" value=3D"3" disabled=3D""> B=
+. 3
+        </label>
+    </li><br><br>
+    <li id=3D"q13_li">First-hand information about event and people is know=
+n as
+        <br><label>
+            <input type=3D"radio" name=3D"q13" value=3D"secondary source" d=
+isabled=3D""> A. secondary source
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q13" value=3D"primary source" dis=
+abled=3D""> B. primary source
+        </label>
+    </li><br><br>
+    <li id=3D"q14_li">Letters, magazines and books are examples of
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q14" value=3D"primary source" dis=
+abled=3D""> A. primary source
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q14" value=3D"secondary source" d=
+isabled=3D""> B. secondary source
+        </label>
+    </li><br><br>
+    <li id=3D"q15_li">A book that people write their daily activities in is=
+ called
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q15" value=3D"diaries" disabled=
+=3D""> A. diaries
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q15" value=3D"magazine" disabled=
+=3D""> B. magazine
+        </label>
+    </li><br><br>
+    <li id=3D"q16_li">A set of questions used to collect information about =
+things is called
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q16" value=3D"diaries" disabled=
+=3D""> A. diaries
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q16" value=3D"surveys" disabled=
+=3D""> B. surveys
+        </label>
+    </li><br><br>
+    <li id=3D"q17_li">Which of the following is the use of computers to sen=
+d messages
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q17" value=3D"Email" disabled=3D"=
+"> A. Email
+        </label>
+        <br><label>
+            <input type=3D"radio" name=3D"q17" value=3D"Magazine" disabled=
+=3D""> B. Magazine
+        </label>
+    </li><br><br>
+    <li id=3D"q18_li">A learner talks about my first day at school to a cro=
+wd of people. What source of information is he giving?
+        <br><label>
+            <input type=3D"radio" name=3D"q18" value=3D"Survey" disabled=3D=
+""> A. Survey
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q18" value=3D"Speech" disabled=3D=
+""> B. Speech
+        </label>
+    </li><br><br>
+    <li id=3D"q19_li">Which of the following sources will you get informati=
+on on current affairs?
+        <br><label>
+            <input type=3D"radio" name=3D"q19" value=3D"Survey" disabled=3D=
+""> A. Survey
+        </label>
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q19" value=3D"Newspapers" disable=
+d=3D""> B. Newspapers
+        </label>
+    </li><br><br>
+    <li id=3D"q20_li">Junior Graphic is an example of
+        <br><label style=3D"color: green;">
+            <input type=3D"radio" name=3D"q20" value=3D"newspaper" disabled=
+=3D""> A. newspaper
+        </label>
+        <br><label style=3D"color: red;">
+            <input type=3D"radio" name=3D"q20" value=3D"magazine" disabled=
+=3D""> B. magazine
+        </label>
+    </li><br><br>
+</ol>
+
+<button id=3D"submitBtn" style=3D"display: block;" disabled=3D"">Submit</bu=
+tton>
+<p id=3D"result">You got 12 correct.</p>
+
+</body></html>
+------MultipartBoundary--gnBof5zKJJ1Xn2FGS5xO02w4aIiWakMsmuxf20XAGe------
