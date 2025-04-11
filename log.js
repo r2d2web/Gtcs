@@ -41,6 +41,9 @@ function loginUser() {
         "LD05": { password: "0242770399", homepage: "pages/Little-Daisy/LD05.html" },
         "LD06": { password: "0534795556", homepage: "pages/Little-Daisy/LD06.html" },
         "LD07": { password: "0246849824", homepage: "pages/Little-Daisy/LD07.html" },
+        "LD08": { password: "0502761534", homepage: "pages/Little-Daisy/LD08.html" },
+        "LD09": { password: "0502761534", homepage: "pages/Little-Daisy/LD09.html" },
+
 
         // Rose 
         "R01": { password: "0242580593", homepage: "pages/Rose/R01.html" },
