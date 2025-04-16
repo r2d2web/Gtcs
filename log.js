@@ -28,7 +28,7 @@ function loginUser() {
         "L03": { password: "0257136891", homepage: "pages/Lily/L03.html" },
         "L04": { password: "0597527425", homepage: "pages/Lily/L04.html" },
         "L05": { password: "0558850857", homepage: "pages/Lily/L05.html" },
-        "L06": { password: "0558850857", homepage: "pages/Lily/L06.html" },
+        "L06": { password: "0592028692", homepage: "pages/Lily/L06.html" },
         "L07": { password: "0246849824", homepage: "pages/Lily/L07.html" },
         "L08": { password: "0257251006", homepage: "pages/Lily/L08.html" },
         "L09": { password: "0249797540", homepage: "pages/Lily/L09.html" },
