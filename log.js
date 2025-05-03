@@ -1,7 +1,7 @@
 document.addEventListener('contextmenu', function(e) {
     e.preventDefault();
 });
-  document.addEventListener('keydown', function(event) {
+document.addEventListener('keydown', function(event) {
     if (event.ctrlKey) {
         event.preventDefault(); // Disable the default action when Ctrl is pressed
     }
@@ -15,119 +15,132 @@ if (!/Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) {
     document.body.innerHTML = "<h2>Access Denied. This site is only accessible on mobile devices.</h2>";
 }
 
+// Encryption function
+function encryptPassword(password) {
+    const encryptionMap = {
+        '0': 'sa*2S','7': 'aew0','3': 'ksaw)','9': 'ijoew','4': 'ed21','2': '3ha-','5': 'zgwe','6': '@21p','8': 'ekw*p','1': '72H/'
+    };
 
-
+    let encrypted = '';
+    for (let digit of password) {
+        if (!encryptionMap.hasOwnProperty(digit)) {
+            return null; // Invalid character (not a digit)
+        }
+        encrypted += encryptionMap[digit];
+    }
+    return encrypted;
+}
 
 function loginUser() {
     // Simulated user data (replace with real authentication)
     const users = {
-
+        
         // Lily
-        "L01": { password: "0243760205", homepage: "pages/Lily/L01.html" },
-        "L02": { password: "0246387638", homepage: "pages/Lily/L02.html" },
-        "L03": { password: "0257136891", homepage: "pages/Lily/L03.html" },
-        "L04": { password: "0597527425", homepage: "pages/Lily/L04.html" },
-        "L05": { password: "0558850857", homepage: "pages/Lily/L05.html" },
-        "L06": { password: "0592028692", homepage: "pages/Lily/L06.html" },
-        "L07": { password: "0246849824", homepage: "pages/Lily/L07.html" },
-        "L08": { password: "0257251006", homepage: "pages/Lily/L08.html" },
-        "L09": { password: "0249797540", homepage: "pages/Lily/L09.html" },
+        "L01": { password: "sa*2S3ha-ed21ksaw)aew0@21psa*2S3ha-sa*2Szgwe", homepage: "pages/Lily/L01.html" },
+        "L02": { password: "sa*2S3ha-ed21@21pksaw)ekw*paew0@21pksaw)ekw*p", homepage: "pages/Lily/L02.html" },
+        "L03": { password: "sa*2S3ha-zgweaew072H/ksaw)@21pekw*pijoew72H/", homepage: "pages/Lily/L03.html" },
+        "L04": { password: "sa*2Szgweijoewaew0zgwe3ha-aew0ed213ha-zgwe", homepage: "pages/Lily/L04.html" },
+        "L05": { password: "sa*2Szgwezgweekw*pekw*pzgwesa*2Sekw*pzgweaew0", homepage: "pages/Lily/L05.html" },
+        "L06": { password: "sa*2Szgweijoew3ha-sa*2S3ha-ekw*p@21pijoew3ha-", homepage: "pages/Lily/L06.html" },
+        "L07": { password: "sa*2S3ha-ed21@21pekw*ped21ijoewekw*p3ha-ed21", homepage: "pages/Lily/L07.html" },
+        "L08": { password: "sa*2S3ha-zgweaew03ha-zgwe72H/sa*2Ssa*2S@21p", homepage: "pages/Lily/L08.html" },
+        "L09": { password: "sa*2S3ha-ed21ijoewaew0ijoewaew0zgweed21sa*2S", homepage: "pages/Lily/L09.html" },
 
         // Little Daisy
-        "LD01": { password: "0592028692", homepage: "pages/Little-Daisy/LD01.html" },
-        "LD02": { password: "0535828974", homepage: "pages/Little-Daisy/LD02.html" },
-        "LD03": { password: "0591588144", homepage: "pages/Little-Daisy/LD03.html" },
-        "LD04": { password: "0545124034", homepage: "pages/Little-Daisy/LD04.html" },
-        "LD05": { password: "0242770399", homepage: "pages/Little-Daisy/LD05.html" },
-        "LD06": { password: "0534795556", homepage: "pages/Little-Daisy/LD06.html" },
-        "LD07": { password: "0246849824", homepage: "pages/Little-Daisy/LD07.html" },
-        "LD08": { password: "0502761534", homepage: "pages/Little-Daisy/LD08.html" },
-        "LD09": { password: "0502761534", homepage: "pages/Little-Daisy/LD09.html" },
+        "LD01": { password: "sa*2Szgweijoew3ha-sa*2S3ha-ekw*p@21pijoew3ha-", homepage: "pages/Little-Daisy/LD01.html" },
+        "LD02": { password: "sa*2Szgweksaw)zgweekw*p3ha-ekw*pijoewaew0ed21", homepage: "pages/Little-Daisy/LD02.html" },
+        "LD03": { password: "sa*2Szgweijoew72H/zgweekw*pekw*p72H/ed21ed21", homepage: "pages/Little-Daisy/LD03.html" },
+        "LD04": { password: "sa*2Szgweed21zgwe72H/3ha-ed21sa*2Sksaw)ed21", homepage: "pages/Little-Daisy/LD04.html" },
+        "LD05": { password: "sa*2S3ha-ed213ha-aew0aew0sa*2Sksaw)ijoewijoew", homepage: "pages/Little-Daisy/LD05.html" },
+        "LD06": { password: "sa*2Szgweksaw)ed21aew0ijoewzgwezgwezgwe@21p", homepage: "pages/Little-Daisy/LD06.html" },
+        "LD07": { password: "sa*2S3ha-ed21@21pekw*ped21ijoewekw*p3ha-ed21", homepage: "pages/Little-Daisy/LD07.html" },
+        "LD08": { password: "sa*2Szgwesa*2S3ha-aew0@21p72H/zgweksaw)ed21", homepage: "pages/Little-Daisy/LD08.html" },
+        "LD09": { password: "sa*2Szgwesa*2S3ha-aew0@21p72H/zgweksaw)ed21", homepage: "pages/Little-Daisy/LD09.html" },
 
 
         // Rose 
-        "R01": { password: "0242580593", homepage: "pages/Rose/R01.html" },
-        "R02": { password: "0532717130", homepage: "pages/Rose/R02.html" },
-        "R03": { password: "0246796827", homepage: "pages/Rose/R03.html" },
-        "R04": { password: "0542838878", homepage: "pages/Rose/R04.html" },
-        "R05": { password: "0553399612", homepage: "pages/Rose/R05.html" },
-        "R06": { password: "0247631058", homepage: "pages/Rose/R06.html" },
-        "R07": { password: "0548725933", homepage: "pages/Rose/R07.html" },
-        "R08": { password: "0246949804", homepage: "pages/Rose/R08.html" },
-        "R09": { password: "0249667129", homepage: "pages/Rose/R09.html" },
-        "R10": { password: "0549329144", homepage: "pages/Rose/R10.html" },
-        "R11": { password: "0257837111", homepage: "pages/Rose/R11.html" },
-        "R12": { password: "0533225086", homepage: "pages/Rose/R12.html" },
-        "R13": { password: "0533225086", homepage: "pages/Rose/R13.html" },
-        "R14": { password: "0243921534", homepage: "pages/Rose/R14.html" },
-        "R15": { password: "0246922027", homepage: "pages/Rose/R15.html" },
-        "R16": { password: "0534795556", homepage: "pages/Rose/R16.html" },
-        "R17": { password: "0243564438", homepage: "pages/Rose/R17.html" },
-        "R18": { password: "0247631058", homepage: "pages/Rose/R18.html" },
-        "R19": { password: "0532894665", homepage: "pages/Rose/R19.html" },
-        "R20": { password: "0553787819", homepage: "pages/Rose/R20.html" },
-        "R21": { password: "0552050193", homepage: "pages/Rose/R21.html" },
-        "R22": { password: "0596800640", homepage: "pages/Rose/R22.html" },
-        "R23": { password: "0247419242", homepage: "pages/Rose/R23.html" },
+        "R01": { password: "sa*2S3ha-ed213ha-zgweekw*psa*2Szgweijoewksaw)", homepage: "pages/Rose/R01.html" },
+        "R02": { password: "sa*2Szgweksaw)3ha-aew072H/aew072H/ksaw)sa*2S", homepage: "pages/Rose/R02.html" },
+        "R03": { password: "sa*2S3ha-ed21@21paew0ijoew@21pekw*p3ha-aew0", homepage: "pages/Rose/R03.html" },
+        "R04": { password: "sa*2Szgweed213ha-ekw*pksaw)ekw*pekw*paew0ekw*p", homepage: "pages/Rose/R04.html" },
+        "R05": { password: "sa*2Szgwezgweksaw)ksaw)ijoewijoew@21p72H/3ha-", homepage: "pages/Rose/R05.html" },
+        "R06": { password: "sa*2S3ha-ed21aew0@21pksaw)72H/sa*2Szgweekw*p", homepage: "pages/Rose/R06.html" },
+        "R07": { password: "sa*2Szgweed21ekw*paew03ha-zgweijoewksaw)ksaw)", homepage: "pages/Rose/R07.html" },
+        "R08": { password: "sa*2S3ha-ed21@21pijoewed21ijoewekw*psa*2Sed21", homepage: "pages/Rose/R08.html" },
+        "R09": { password: "sa*2S3ha-ed21ijoew@21p@21paew072H/3ha-ijoew", homepage: "pages/Rose/R09.html" },
+        "R10": { password: "sa*2Szgweed21ijoewksaw)3ha-ijoew72H/ed21ed21", homepage: "pages/Rose/R10.html" },
+        "R11": { password: "sa*2S3ha-zgweaew0ekw*pksaw)aew072H/72H/72H/", homepage: "pages/Rose/R11.html" },
+        "R12": { password: "sa*2Szgweksaw)ksaw)3ha-3ha-zgwesa*2Sekw*p@21p", homepage: "pages/Rose/R12.html" },
+        "R13": { password: "sa*2Szgweksaw)ksaw)3ha-3ha-zgwesa*2Sekw*p@21p", homepage: "pages/Rose/R13.html" },
+        "R14": { password: "sa*2S3ha-ed21ksaw)ijoew3ha-72H/zgweksaw)ed21", homepage: "pages/Rose/R14.html" },
+        "R15": { password: "sa*2S3ha-ed21@21pijoew3ha-3ha-sa*2S3ha-aew0", homepage: "pages/Rose/R15.html" },
+        "R16": { password: "sa*2Szgweksaw)ed21aew0ijoewzgwezgwezgwe@21p", homepage: "pages/Rose/R16.html" },
+        "R17": { password: "sa*2S3ha-ed21ksaw)zgwe@21ped21ed21ksaw)ekw*p", homepage: "pages/Rose/R17.html" },
+        "R18": { password: "sa*2S3ha-ed21aew0@21pksaw)72H/sa*2Szgweekw*p", homepage: "pages/Rose/R18.html" },
+        "R19": { password: "sa*2Szgweksaw)3ha-ekw*pijoewed21@21p@21pzgwe", homepage: "pages/Rose/R19.html" },
+        "R20": { password: "sa*2Szgwezgweksaw)aew0ekw*paew0ekw*p72H/ijoew", homepage: "pages/Rose/R20.html" },
+        "R21": { password: "sa*2Szgwezgwe3ha-sa*2Szgwesa*2S72H/ijoewksaw)", homepage: "pages/Rose/R21.html" },
+        "R22": { password: "sa*2Szgweijoew@21pekw*psa*2Ssa*2S@21ped21sa*2S", homepage: "pages/Rose/R22.html" },
+        "R23": { password: "sa*2S3ha-ed21aew0ed2172H/ijoew3ha-ed213ha-", homepage: "pages/Rose/R23.html" },
 
 
         // Sunflower
-        "S01": { password: "0244580876", homepage: "pages/Sunflower/S01.html" },
-        "S02": { password: "0556311774", homepage: "pages/Sunflower/S02.html" },
-        "S03": { password: "0548952383", homepage: "pages/Sunflower/S03.html" },
-        "S04": { password: "0246796827", homepage: "pages/Sunflower/S04.html" },
-        "S05": { password: "0244456873", homepage: "pages/Sunflower/S05.html" },
-        "S06": { password: "0246789885", homepage: "pages/Sunflower/S06.html" },
-        "S07": { password: "0244784795", homepage: "pages/Sunflower/S07.html" },
-        "S08": { password: "0540944609", homepage: "pages/Sunflower/S08.html" },
-        "S09": { password: "0540944609", homepage: "pages/Sunflower/S09.html" },
-        "S10": { password: "0551899546", homepage: "pages/Sunflower/S10.html" },
-        "S11": { password: "0545179632", homepage: "pages/Sunflower/S11.html" },
-        "S12": { password: "0244243451", homepage: "pages/Sunflower/S12.html" },
-        "S13": { password: "0244909163", homepage: "pages/Sunflower/S13.html" },
-        "S14": { password: "0209131211", homepage: "pages/Sunflower/S14.html" },
-        "S15": { password: "0530948103", homepage: "pages/Sunflower/S15.html" },
-        "S16": { password: "0591865624", homepage: "pages/Sunflower/S16.html" },
-        "S17": { password: "0597126885", homepage: "pages/Sunflower/S17.html" },
-        "S18": { password: "0277225237", homepage: "pages/Sunflower/S18.html" },
-        "S19": { password: "0554353395", homepage: "pages/Sunflower/S19.html" },
-        "S20": { password: "0240807009", homepage: "pages/Sunflower/S20.html" },
-        "S21": { password: "0555379868", homepage: "pages/Sunflower/S21.html" },
-        "S22": { password: "0552200426", homepage: "pages/Sunflower/S22.html" },
-        "S23": { password: "0541980469", homepage: "pages/Sunflower/S23.html" },
-        "S24": { password: "0548954438", homepage: "pages/Sunflower/S24.html" },
-        "S25": { password: "0540944609", homepage: "pages/Sunflower/S25.html" },
+        "S01": { password: "sa*2S3ha-ed21ed21zgweekw*psa*2Sekw*paew0@21p", homepage: "pages/Sunflower/S01.html" },
+        "S02": { password: "sa*2Szgwezgwe@21pksaw)72H/72H/aew0aew0ed21", homepage: "pages/Sunflower/S02.html" },
+        "S03": { password: "sa*2Szgweed21ekw*pijoewzgwe3ha-ksaw)ekw*pksaw)", homepage: "pages/Sunflower/S03.html" },
+        "S04": { password: "sa*2S3ha-ed21@21paew0ijoew@21pekw*p3ha-aew0", homepage: "pages/Sunflower/S04.html" },
+        "S05": { password: "sa*2S3ha-ed21ed21ed21zgwe@21pekw*paew0ksaw)", homepage: "pages/Sunflower/S05.html" },
+        "S06": { password: "sa*2S3ha-ed21@21paew0ekw*pijoewekw*pekw*pzgwe", homepage: "pages/Sunflower/S06.html" },
+        "S07": { password: "sa*2S3ha-ed21ed21aew0ekw*ped21aew0ijoewzgwe", homepage: "pages/Sunflower/S07.html" },
+        "S08": { password: "sa*2Szgweed21sa*2Sijoewed21ed21@21psa*2Sijoew", homepage: "pages/Sunflower/S08.html" },
+        "S09": { password: "sa*2Szgweed21sa*2Sijoewed21ed21@21psa*2Sijoew", homepage: "pages/Sunflower/S09.html" },
+        "S10": { password: "sa*2Szgwezgwe72H/ekw*pijoewijoewzgweed21@21p", homepage: "pages/Sunflower/S10.html" },
+        "S11": { password: "sa*2Szgweed21zgwe72H/aew0ijoew@21pksaw)3ha-", homepage: "pages/Sunflower/S11.html" },
+        "S12": { password: "sa*2S3ha-ed21ed213ha-ed21ksaw)ed21zgwe72H/", homepage: "pages/Sunflower/S12.html" },
+        "S13": { password: "sa*2S3ha-ed21ed21ijoewsa*2Sijoew72H/@21pksaw)", homepage: "pages/Sunflower/S13.html" },
+        "S14": { password: "sa*2S3ha-sa*2Sijoew72H/ksaw)72H/3ha-72H/72H/", homepage: "pages/Sunflower/S14.html" },
+        "S15": { password: "sa*2Szgweksaw)sa*2Sijoewed21ekw*p72H/sa*2Sksaw)", homepage: "pages/Sunflower/S15.html" },
+        "S16": { password: "sa*2Szgweijoew72H/ekw*p@21pzgwe@21p3ha-ed21", homepage: "pages/Sunflower/S16.html" },
+        "S17": { password: "sa*2Szgweijoewaew072H/3ha-@21pekw*pekw*pzgwe", homepage: "pages/Sunflower/S17.html" },
+        "S18": { password: "sa*2S3ha-aew0aew03ha-3ha-zgwe3ha-ksaw)aew0", homepage: "pages/Sunflower/S18.html" },
+        "S19": { password: "sa*2Szgwezgweed21ksaw)zgweksaw)ksaw)ijoewzgwe", homepage: "pages/Sunflower/S19.html" },
+        "S20": { password: "sa*2S3ha-ed21sa*2Sekw*psa*2Saew0sa*2Ssa*2Sijoew", homepage: "pages/Sunflower/S20.html" },
+        "S21": { password: "sa*2Szgwezgwezgweksaw)aew0ijoewekw*p@21pekw*p", homepage: "pages/Sunflower/S21.html" },
+        "S22": { password: "sa*2Szgwezgwe3ha-3ha-sa*2Ssa*2Sed213ha-@21p", homepage: "pages/Sunflower/S22.html" },
+        "S23": { password: "sa*2Szgweed2172H/ijoewekw*psa*2Sed21@21pijoew", homepage: "pages/Sunflower/S23.html" },
+        "S24": { password: "sa*2Szgweed21ekw*pijoewzgweed21ed21ksaw)ekw*p", homepage: "pages/Sunflower/S24.html" },
+        "S25": { password: "sa*2Szgweed21sa*2Sijoewed21ed21@21psa*2Sijoew", homepage: "pages/Sunflower/S25.html" },
         // Complete 
 
 
         // Tulip
-        "T01": { password: "0242580593", homepage: "pages/Tulip/T01.html" },
-        "T02": { password: "0593531020", homepage: "pages/Tulip/T02.html" },
-        "T03": { password: "0248180961", homepage: "pages/Tulip/T03.html" },
-        "T04": { password: "0533225086", homepage: "pages/Tulip/T04.html" },
-        "T05": { password: "0549329144", homepage: "pages/Tulip/T05.html" },
-        "T06": { password: "0558583897", homepage: "pages/Tulip/T06.html" },
-        "T07": { password: "0552050193", homepage: "pages/Tulip/T07.html" },
-        "T08": { password: "0531442644", homepage: "pages/Tulip/T08.html" },
-        "T09": { password: "0553787819", homepage: "pages/Tulip/T09.html" },
-        "T10": { password: "0546897380", homepage: "pages/Tulip/T10.html" },
-        "T11": { password: "0242770309", homepage: "pages/Tulip/T11.html" },
-        "T12": { password: "0244878582", homepage: "pages/Tulip/T12.html" },
-        "T13": { password: "0597007496", homepage: "pages/Tulip/T13.html" },
-        "T14": { password: "0246973816", homepage: "pages/Tulip/T14.html" },
-        "T15": { password: "0597043020", homepage: "pages/Tulip/T15.html" },
-        "T16": { password: "0544762108", homepage: "pages/Tulip/T16.html" },
-        "T17": { password: "0532542217", homepage: "pages/Tulip/T17.html" },
-        "T18": { password: "0530046460", homepage: "pages/Tulip/T18.html" },
-        "T19": { password: "0537424599", homepage: "pages/Tulip/T19.html" },
-        "T20": { password: "0242042455", homepage: "pages/Tulip/T20.html" },
-        "T21": { password: "0592000937", homepage: "pages/Tulip/T21.html" },
-        "T22": { password: "0248421948", homepage: "pages/Tulip/T22.html" },
-        "T23": { password: "0554227373", homepage: "pages/Tulip/T23.html" },
-        "T24": { password: "0548954438", homepage: "pages/Tulip/T24.html" },
-        "T25": { password: "0246922027", homepage: "pages/Tulip/T25.html" },
-        "T26": { password: "0249287248", homepage: "pages/Tulip/T26.html" },
-        "T27": { password: "0246949804", homepage: "pages/Tulip/T27.html" },
+        "T01": { password: "sa*2S3ha-ed213ha-zgweekw*psa*2Szgweijoewksaw)", homepage: "pages/Tulip/T01.html" },
+        "T02": { password: "sa*2Szgweijoewksaw)zgweksaw)72H/sa*2S3ha-sa*2S", homepage: "pages/Tulip/T02.html" },
+        "T03": { password: "sa*2S3ha-ed21ekw*p72H/ekw*psa*2Sijoew@21p72H/", homepage: "pages/Tulip/T03.html" },
+        "T04": { password: "sa*2Szgweksaw)ksaw)3ha-3ha-zgwesa*2Sekw*p@21p", homepage: "pages/Tulip/T04.html" },
+        "T05": { password: "sa*2Szgweed21ijoewksaw)3ha-ijoew72H/ed21ed21", homepage: "pages/Tulip/T05.html" },
+        "T06": { password: "sa*2Szgwezgweekw*pzgweekw*pksaw)ekw*pijoewaew0", homepage: "pages/Tulip/T06.html" },
+        "T07": { password: "sa*2Szgwezgwe3ha-sa*2Szgwesa*2S72H/ijoewksaw)", homepage: "pages/Tulip/T07.html" },
+        "T08": { password: "sa*2Szgweksaw)72H/ed21ed213ha-@21ped21ed21", homepage: "pages/Tulip/T08.html" },
+        "T09": { password: "sa*2Szgwezgweksaw)aew0ekw*paew0ekw*p72H/ijoew", homepage: "pages/Tulip/T09.html" },
+        "T10": { password: "sa*2Szgweed21@21pekw*pijoewaew0ksaw)ekw*psa*2S", homepage: "pages/Tulip/T10.html" },
+        "T11": { password: "sa*2S3ha-ed213ha-aew0aew0sa*2Sksaw)sa*2Sijoew", homepage: "pages/Tulip/T11.html" },
+        "T12": { password: "sa*2S3ha-ed21ed21ekw*paew0ekw*pzgweekw*p3ha-", homepage: "pages/Tulip/T12.html" },
+        "T13": { password: "sa*2Szgweijoewaew0sa*2Ssa*2Saew0ed21ijoew@21p", homepage: "pages/Tulip/T13.html" },
+        "T14": { password: "sa*2S3ha-ed21@21pijoewaew0ksaw)ekw*p72H/@21p", homepage: "pages/Tulip/T14.html" },
+        "T15": { password: "sa*2Szgweijoewaew0sa*2Sed21ksaw)sa*2S3ha-sa*2S", homepage: "pages/Tulip/T15.html" },
+        "T16": { password: "sa*2Szgweed21ed21aew0@21p3ha-72H/sa*2Sekw*p", homepage: "pages/Tulip/T16.html" },
+        "T17": { password: "sa*2Szgweksaw)3ha-zgweed213ha-3ha-72H/aew0", homepage: "pages/Tulip/T17.html" },
+        "T18": { password: "sa*2Szgweksaw)sa*2Ssa*2Sed21@21ped21@21psa*2S", homepage: "pages/Tulip/T18.html" },
+        "T19": { password: "sa*2Szgweksaw)aew0ed213ha-ed21zgweijoewijoew", homepage: "pages/Tulip/T19.html" },
+        "T20": { password: "sa*2S3ha-ed213ha-sa*2Sed213ha-ed21zgwezgwe", homepage: "pages/Tulip/T20.html" },
+        "T21": { password: "sa*2Szgweijoew3ha-sa*2Ssa*2Ssa*2Sijoewksaw)aew0", homepage: "pages/Tulip/T21.html" },
+        "T22": { password: "sa*2S3ha-ed21ekw*ped213ha-72H/ijoewed21ekw*p", homepage: "pages/Tulip/T22.html" },
+        "T23": { password: "sa*2Szgwezgweed213ha-3ha-aew0ksaw)aew0ksaw)", homepage: "pages/Tulip/T23.html" },
+        "T24": { password: "sa*2Szgweed21ekw*pijoewzgweed21ed21ksaw)ekw*p", homepage: "pages/Tulip/T24.html" },
+        "T25": { password: "sa*2S3ha-ed21@21pijoew3ha-3ha-sa*2S3ha-aew0", homepage: "pages/Tulip/T25.html" },
+        "T26": { password: "sa*2S3ha-ed21ijoew3ha-ekw*paew03ha-ed21ekw*p", homepage: "pages/Tulip/T26.html" },
+        "T27": { password: "sa*2S3ha-ed21@21pijoewed21ijoewekw*psa*2Sed21", homepage: "pages/Tulip/T27.html" },
         // Complete
 
         // Cactus 
@@ -316,13 +329,17 @@ function loginUser() {
     let username = document.getElementById("username").value;
     let password = document.getElementById("password").value;
 
-    if (users[username] && users[username].password === password) {
-        // Store user info (not secure, for simple cases only)
+    let encryptedPassword = encryptPassword(password);
+
+    if (!encryptedPassword) {
+        alert("Password must contain digits only.");
+        return false;
+    }
+
+    if (users[username] && users[username].password === encryptedPassword) {
         localStorage.setItem("loggedInUser", username);
-        
-        // Redirect to the appropriate homepage
         window.location.href = users[username].homepage;
-        return false; // Prevent form submission
+        return false;
     } else {
         alert("Invalid username or password");
         return false;
