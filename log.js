@@ -321,7 +321,7 @@ function loginUser() {
         "0803": { password: "________________________________________________________________________________________________________________________________", homepage: "pages/Camellia/0803.html" },
         "0804": { password: "_______________________________________________________________________________________________________", homepage: "pages/Camellia/0804.html" },
 
-        "admin": { password: "__________________________________________________", homepage: "pages/admin.html" },
+        "admin": { password: "__________________________________________________", homepage: "pages/#/admin.html" },
         "userC": { password: "passC", homepage: "homepageC.html" },
         "Dave": { password: "1234", homepage: "pages/CLASS 2 MARIGOLD.html" }
     };
