@@ -11,12 +11,5 @@ document.addEventListener('keydown', function(event) {
         event.preventDefault(); // Disable F12 (DevTools shortcut)
     }
 });
-function onHashChange() {
-      const hash = window.location.hash || '#/';
-      const route = hash.replace('#', '');
-      render(route);
-    }
-
-    window.addEventListener('hashchange', onHashChange);
-    window.addEventListener('load', onHashChange);
-
+// Change the displayed URL without reloading the page
+history.pushState(null, "", "/gtcs");
