@@ -102,3 +102,28 @@ body {
     border: none;
     background-color: #ff00004d;
 }
+.termactive {
+    height: 45px;
+    width: 80px;
+    border-radius: 50px;
+    border: none;
+    background-color: #ff00004d;
+    animation: pulse 3.5s infinite;
+}
+@keyframes pulse {
+    0% {
+        background-color: white;
+    }
+    25% {
+        background-color: #ff00004f;
+    }
+    50% {
+        background-color: #ff000077;
+    }
+    75% {
+        background-color: #ff00004f;
+    }
+    100% {
+        background-color: white;
+    }
+}
