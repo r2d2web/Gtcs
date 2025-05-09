@@ -108,7 +108,7 @@ body {
     border-radius: 50px;
     border: none;
     background-color: #ff00004d;
-    animation: pulse 3.5s infinite;
+    animation: pulse 1.5s infinite;
 }
 @keyframes pulse {
     0% {
