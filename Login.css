@@ -63,11 +63,12 @@ body {
 .login-child button {
     height: 40px;
     width: 60%;
-    background-color: #ff0000b3;
+    /* background-color: #ff0000b3; */
     border: none;
     border-radius: 10px;
     color: white;
     margin: 10px;
+    background-image: linear-gradient(to right, #ff0000b3, #ce0000);
 }
 .reset {
     text-decoration: none;
